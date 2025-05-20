@@ -9,6 +9,7 @@
 |    2    |            | [Python - datastrukture](lessons/py_intro_2.md)                 |
 |    3    |            | [Python - modules, virtual environmnets, requirements.txt](lessons/py_intro_3.md)|
 |||**Rest API**|
+|:-----:|:---------:|:----------------------------------------------------------|
 |    5    |            | [En introduktion til REST API](lessons/introduktion_til_rest_api.md)|
 |    6    |            | [FLASK API](lessons/flask.md)|
 |    7    |            | [FLASK dag 2](lessons/flask_2.md)           |
