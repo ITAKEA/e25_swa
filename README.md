@@ -47,6 +47,10 @@
 |   15    |            | [](lessons/ses10.md) |
 |   16    |            | [](lessons/ses10.md) |
 |   17    |            | [](lessons/ses10.md) |
+
+#### Ferie
+| Lektion |    Dato    |       Emne                            |
+|:-----:|:---------:|:----------------------------------------------------------|
 |         |            | Efterårsferie  |
 |         |            | Efterårsferie |
 
@@ -69,6 +73,9 @@
 |   23    |            | [](lessons/ses10.md)  |
 
 
+#### Eksamensprojekt
+| Lektion |    Dato    |       Emne                            |
+|:-----:|:---------:|:----------------------------------------------------------|
 |   24    |            | [](lessons/ses10.md)  |
 |   25    |            | [](lessons/ses10.md)  |
 |   26    |            | [](lessons/ses10.md)  |
