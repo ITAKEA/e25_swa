@@ -4,7 +4,7 @@
 
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-| **Intro til python** |||
+| ||**Intro til python** |
 |    1    |            | [Introduktion til python](lessons/py_intro_1.md)                |
 |    2    |            | [Python - datastrukture](lessons/py_intro_2.md)                 |
 |    3    |            | [Python - modules, virtual environmnets, requirements.txt](lessons/py_intro_3.md)|
