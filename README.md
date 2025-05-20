@@ -17,23 +17,23 @@
 |    6    |            | [FLASK API](lessons/flask.md)|
 |    7    |            | [FLASK dag 2](lessons/flask_2.md)           |
 
-|||**Docker**|
+|**Docker**|||
 |:-----:|:---------:|:----------------------------------------------------------|
 |    4    |            | [Linux OS](lessons/linux_1.md)|
 |    8    |            | [Docker](lessons/docker_1.md)|
 |    9    |            | [Docker Compose](lessons/docker_2.md)|
 
-|||**OOP**|
+|**OOP**|||
 |:-----:|:---------:|:----------------------------------------------------------|
 |   10    |            | [](lessons/ses12.md) |
 |   11    |            | [](lessons/ses10.md) |
 
-|||**Design principper**|
+|**Design principper**|||
 |:-----:|:---------:|:----------------------------------------------------------|
 |   12    |            | [Design principper 1 - SRP, Low Coupling, High Coheasion, ](lessons/ses10.md) |
 |   13    |            | [Design principper 2](lessons/ses11.md) |
 
-|||**Tests**|
+|**Tests**|||
 |:-----:|:---------:|:----------------------------------------------------------|
 |   14    |            | [](lessons/ses12.md) |
 |   15    |            | [](lessons/ses10.md) |
@@ -42,14 +42,14 @@
 |         |            | Efterårsferie  |
 |         |            | Efterårsferie |
 
-|||**Microservices**|
+|**Microservices**|||
 |:-----:|:---------:|:----------------------------------------------------------|
 |   16    |            | [](lessons/ses10.md) |
 |   17    |            | [](lessons/ses10.md)  |
 |   18    |            | [](lessons/ses10.md)  |
 |   19    | Dokumentation | [](lessons/ses10.md)  |
 
-|||**Softwaresikkerhed**
+|**Softwaresikkerhed**|||
 |:-----:|:---------:|:----------------------------------------------------------|
 |   20    |            | [](lessons/ses10.md)  |
 |   21    |            | [](lessons/ses10.md)  |
@@ -59,7 +59,7 @@
 |   25    |            | [](lessons/ses10.md)  |
 |   26    |            | [](lessons/ses10.md)  |
 
-|||**Eksamensprojekt**
+|**Eksamensprojekt**|||
 |:-----:|:---------:|:----------------------------------------------------------|
 |   27    | Eksamensprojekt | [](lessons/ses10.md)  |
 |   28    |            | [](lessons/ses10.md)  |
