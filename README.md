@@ -1,4 +1,4 @@
-## Introduktion til Python efterår 2025    
+## Softwarearkitektur ITA efterår 2025    
 
 ## Lektionsplan
 
