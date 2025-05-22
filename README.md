@@ -43,7 +43,7 @@
 #### Software Testing
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   14    |            | [](lessons/ses12.md) |
+|   14    | Softwaretests | [](lessons/testing_1.md) |
 |   15    |            | [](lessons/ses10.md) |
 |   16    |            | [](lessons/ses10.md) |
 |   17    |            | [](lessons/ses10.md) |
