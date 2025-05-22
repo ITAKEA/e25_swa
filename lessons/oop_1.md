@@ -112,7 +112,7 @@ Denne klasse er ansvarlig for at køre applikationen. Den skal oprette objekter 
 
 Du kan se en prototype af denne øvelse her. Du er selvfølgelig velkommen til at forbedre spillet, men dette kunne være en løsning.
 
-![](assets/angry.png)(https://youtu.be/n9Ths1CSCkU?si=gBvTNk3p4Odux7yQ)
+[![](assets/angry.png)](https://youtu.be/n9Ths1CSCkU?si=gBvTNk3p4Odux7yQ)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n9Ths1CSCkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
