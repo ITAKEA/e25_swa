@@ -31,8 +31,8 @@
 #### OOP
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   10    |            | [](lessons/ses12.md) |
-|   11    |            | [](lessons/ses10.md) |
+|   10    |            | [Objektorienteret programmering](lessons/oop_1.md) |
+|   11    |            | [OOP - Arv, polymorphi](lessons/oop_2.md) |
 
 #### Design principper
 | Lektion |    Dato    |       Emne                            |
