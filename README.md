@@ -2,6 +2,13 @@
 
 ## Lektionsplan
 
+| Lektion| Modul |    Dato    |       Emne                            |
+|:-----:|:---------:|:---------|:----------------------------------------------------------|
+|    1    | Python |            | [Introduktion til python](lessons/py_intro_1.md)                |
+|    2    ||            | [Python - datastrukture](lessons/py_intro_2.md)                 |
+|    3    ||            | [Python - modules, virtual environmnets, requirements.txt](lessons/py_intro_3.md)|
+|    3    | Rest API |            | [Python - modules, virtual environmnets, requirements.txt](lessons/py_intro_3.md)|
+|    3    ||            | [Python - modules, virtual environmnets, requirements.txt](lessons/py_intro_3.md)|
 
 #### Python
 | Lektion |    Dato    |       Emne                            |
