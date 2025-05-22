@@ -1,4 +1,4 @@
-# Objekt orienteret programmering (OOP)
+# Objektorienteret programmering (OOP)
 
 
 ## Forberedelse
@@ -41,10 +41,9 @@ Husk at gøre din kode "pythonic"; den skal være simpel, let at læse, præcis 
 
 ---
 
-### Øvelse 1a: Python færdigheder Evaluering
+### Øvelse 2: OOP promt øvelser
 
-Kopier/indsæt dette i "din" ChatGpt-prompt.
-Den rekursive evaluering vil fungere bedst med GPT4 (den betalte version), men det er også okay med gpt3 (bruges af den gratis version).
+Kopier/indsæt dette i din LLM prompt.
 
 ```plaintext
 Jeg vil gerne have en score for, hvor godt min Python-programmering med fokus på pythonic OOP er. Scoren skal være fra 1 til 10.
@@ -66,13 +65,13 @@ Lad os starte med det første spørgsmål.
 
 ---
 
-### Øvelse 2: Angry Bird
+### Øvelse 3: Angry Bird
 
 [Løsning](exercises/solution/04_oop/solution.rst)
 
 I denne øvelse skal du oprette en simpel terminalversion af dette [Angry Bird online kodningslæringsværktøj for børn](https://studio.code.org/hoc/1).
 
-![Angry Bird](_static/angry_bird.png)
+![Angry Bird](assets/angry_bird.png)
 
 Du skal lave dette som en OOP-applikation, og dine klasser kunne se sådan ud:
 
