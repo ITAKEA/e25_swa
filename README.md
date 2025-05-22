@@ -33,6 +33,7 @@
 |:-----:|:---------:|:----------------------------------------------------------|
 |   10    |            | [Objektorienteret programmering](lessons/oop_1.md) |
 |   11    |            | [OOP - Arv, polymorphi](lessons/oop_2.md) |
+|   12    |            | [ORM - Object relational manager - Databaser](lessons/oop_2.md) |
 
 #### Design principper
 | Lektion |    Dato    |       Emne                            |
