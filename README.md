@@ -45,7 +45,7 @@
 #### Design principper
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   12    |            | [Design principper 1 - SRP, Low Coupling, High Coheasion, ](lessons/ses10.md) |
+|   12    |            | [Design principper 1 - SRP, Low Coupling, High Coheasion, ](lessons/design_principper_1.md) |
 |   13    |            | [Design principper 2](lessons/ses11.md) |
 
 #### Software Testing
