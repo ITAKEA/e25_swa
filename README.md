@@ -65,12 +65,13 @@
 |   20    |     19/11       | [](lessons/ses10.md) (online)  |
 |   21    |     24/11       | [](lessons/ses10.md)  |
 |   22    |     28/11       | [](lessons/ses10.md)  |
-|   23    |      1/12       | [](lessons/ses10.md)  |
+
 
 
 #### Eksamensprojekt
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
+|   23    |      1/12       | [](lessons/ses10.md)  |
 |   24    |     3/12       | [](lessons/ses10.md) (online)  |
 |   25    |     8/12       | [](lessons/ses10.md)  |
 |   26    |     12/12       | [](lessons/ses10.md)  |
