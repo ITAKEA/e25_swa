@@ -25,12 +25,13 @@
 |:-----:|:---------:|:----------------------------------------------------------|
 |    4    |      19/9  | [Linux OS](materialer/docker1/docker_1.md)|
 |    8    |      22/9  | [Docker](materialer/docker2/docker_2.md)|
-|    9    |      24/9  | [Docker Compose](materialer/docker3/docker_3.md)|
+
 
 #### OOP
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   10    |     29/9   | [Objektorienteret programmering](lessons/oop_1.md) |
+|9|24/9|[Objektorienteret programmering](lessons/oop_1.md) |
+|   10    |     29/9   | [OOP](lessons/oop_2.md) (online) |
 |   11    |      3/10  | [OOP - Arv, polymorphi](lessons/oop_2.md) |
 |   12    |     6/10   | [ORM - Object relational manager - Databaser](lessons/oop_2.md) |
 
@@ -55,7 +56,7 @@
 |:-----:|:---------:|:----------------------------------------------------------|
 |   16    |      5/11  | [](lessons/ses10.md) (online) |
 |   17    |     10/11  | [](lessons/ses10.md)  |
-|   18    |     14/11  | [](lessons/ses10.md)  |
+|   18    |     14/11  | [Docker Compose](materialer/docker3/docker_3.md) |
 |   19    |     17/11  | [Dokumentation ](lessons/ses10.md)  |
 
 
