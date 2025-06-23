@@ -23,68 +23,59 @@
 #### Docker
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|    4    |       19/9 | [Linux OS](materialer/docker1/docker_1.md)|
-|    8    |            | [Docker](materialer/docker2/docker_2.md)|
-|    9    |            | [Docker Compose](materialer/docker3/docker_3.md)|
+|    4    |      19/9  | [Linux OS](materialer/docker1/docker_1.md)|
+|    8    |      22/9  | [Docker](materialer/docker2/docker_2.md)|
+|    9    |      24/9  | [Docker Compose](materialer/docker3/docker_3.md)|
 
 #### OOP
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   10    |            | [Objektorienteret programmering](lessons/oop_1.md) |
-|   11    |            | [OOP - Arv, polymorphi](lessons/oop_2.md) |
-|   12    |            | [ORM - Object relational manager - Databaser](lessons/oop_2.md) |
+|   10    |     29/9   | [Objektorienteret programmering](lessons/oop_1.md) |
+|   11    |      3/10  | [OOP - Arv, polymorphi](lessons/oop_2.md) |
+|   12    |     6/10   | [ORM - Object relational manager - Databaser](lessons/oop_2.md) |
 
 #### Design principper
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   12    |            | [Design principper 1 - SRP, Low Coupling, High Coheasion, ](lessons/design_principper_1.md) |
-|   13    |            | [Design principper 2](lessons/ses11.md) |
+|   12    |    8/10    | [Design principper 1 - SRP, Low Coupling, High Coheasion, ](lessons/design_principper_1.md)  (online)|
+|||Efterårsferie|
+|   13    |    20/10   | [Design principper 2](lessons/ses11.md) |
 
 #### Software Testing
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   14    |            | [Softwaretests ](lessons/testing_1.md) |
-|   15    |            | [](lessons/ses10.md) |
-|   16    |            | [](lessons/ses10.md) |
-|   17    |            | [](lessons/ses10.md) |
-
-#### Ferie
-| Lektion |    Dato    |       Emne                            |
-|:-----:|:---------:|:----------------------------------------------------------|
-|         |            | Efterårsferie  |
-|         |            | Efterårsferie |
+|   14    |     22/10  | [Softwaretests ](lessons/testing_1.md) (online) |
+|   15    |     27/10  | [](lessons/ses10.md) |
+|   16    |     31/10  | [](lessons/ses10.md) |
+|   17    |     3/11   | [](lessons/ses10.md) |
 
 
 #### Microservices
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   16    |            | [](lessons/ses10.md) |
-|   17    |            | [](lessons/ses10.md)  |
-|   18    |            | [](lessons/ses10.md)  |
-|   19    | | [Dokumentation ](lessons/ses10.md)  |
+|   16    |      5/11  | [](lessons/ses10.md) (online) |
+|   17    |     10/11  | [](lessons/ses10.md)  |
+|   18    |     14/11  | [](lessons/ses10.md)  |
+|   19    |     17/11  | [Dokumentation ](lessons/ses10.md)  |
 
 
 #### Softwaresikkerhed
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   20    |            | [](lessons/ses10.md)  |
-|   21    |            | [](lessons/ses10.md)  |
-|   22    |            | [](lessons/ses10.md)  |
-|   23    |            | [](lessons/ses10.md)  |
+|   20    |     19/11       | [](lessons/ses10.md) (online)  |
+|   21    |     24/11       | [](lessons/ses10.md)  |
+|   22    |     28/11       | [](lessons/ses10.md)  |
+|   23    |      1/12       | [](lessons/ses10.md)  |
 
 
 #### Eksamensprojekt
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   24    |            | [](lessons/ses10.md)  |
-|   25    |            | [](lessons/ses10.md)  |
-|   26    |            | [](lessons/ses10.md)  |
-|   27    | | [Eksamensprojekt ](lessons/ses10.md)  |
-|   28    |            | [](lessons/ses10.md)  |
-|   29    |            | [](lessons/ses10.md)  |
-|   30    |            | [](lessons/ses10.md)  |
-|   31    |            | [](lessons/ses10.md)  |
-|   32    |            | [](lessons/ses10.md)  |
+|   24    |     3/12       | [](lessons/ses10.md) (online)  |
+|   25    |     8/12       | [](lessons/ses10.md)  |
+|   26    |     12/12       | [](lessons/ses10.md)  |
+|   27    |     15/12|      [Eksamensprojekt ](lessons/ses10.md)  |
+|   28    |     17/12       | [](lessons/ses10.md)  |
 
 ## Om faget
 * [Læs mere om faget her](formalia/about_this_elective.md)
