@@ -13,9 +13,9 @@
 #### Python
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|    1    |            | [Introduktion til python](lessons/py_intro_1.md)                |
-|    2    |            | [Python - datastrukture](lessons/py_intro_2.md)                 |
-|    3    |            | [Python - modules, virtual environmnets, requirements.txt](lessons/py_intro_3.md)|
+|    1    |    27/8    | [Introduktion til python](lessons/py_intro_1.md)                |
+|    2    |    1/9     | [Python - datastrukture](lessons/py_intro_2.md)                 |
+|    3    |     5/9    | [Python - modules, virtual environmnets, requirements.txt](lessons/py_intro_3.md)|
 
 
 
@@ -31,9 +31,9 @@
 #### Docker
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|    4    |            | [Linux OS](lessons/linux_1.md)|
-|    8    |            | [Docker](lessons/docker_1.md)|
-|    9    |            | [Docker Compose](lessons/docker_2.md)|
+|    4    |            | [Linux OS](materialer/docker1/docker_1.md)|
+|    8    |            | [Docker](materialer/docker2/docker_2.md)|
+|    9    |            | [Docker Compose](materialer/docker3/docker_3.md)|
 
 #### OOP
 | Lektion |    Dato    |       Emne                            |

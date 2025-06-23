@@ -17,7 +17,7 @@ Formålet med dagens emne er at du bliver fortrolig med at bruge Linux. Det er e
 ## Forberedelse
 (1 time)
 
-* Installer det software vi skal bruge i undervisningen: [Installationer](https://techkea.github.io/f23/materialer/installationer_f24.html)
+* Installer det software vi skal bruge i undervisningen: [Installationer](installationer_f24.md)
 
 Herefter se og følg følgende tutorials:
 
