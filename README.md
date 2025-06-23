@@ -30,8 +30,8 @@
 #### OOP
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|9|24/9|[Objektorienteret programmering](lessons/oop_1.md) |
-|   10    |     29/9   | [OOP](lessons/oop_2.md) (online) |
+|9|24/9|[Objektorienteret programmering](lessons/oop_1.md) (online)|
+|   10    |     29/9   | [OOP](lessons/oop_2.md)  |
 |   11    |      3/10  | [OOP - Arv, polymorphi](lessons/oop_2.md) |
 |   12    |     6/10   | [ORM - Object relational manager - Databaser](lessons/oop_2.md) |
 
