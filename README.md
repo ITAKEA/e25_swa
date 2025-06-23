@@ -15,7 +15,7 @@
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
 |    5    |     8/9    | [En introduktion til REST API](lessons/introduktion_til_rest_api.md)|
-|    6    |    10/9 (online)| [FLASK API](lessons/flask.md)|
+|    6    |    10/9    | [FLASK API](lessons/flask.md) ((online))|
 |    7    |      15/9  | [FLASK dag 2](lessons/flask_2.md)           |
 
 
