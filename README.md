@@ -14,16 +14,16 @@
 #### Rest API
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|    5    |            | [En introduktion til REST API](lessons/introduktion_til_rest_api.md)|
-|    6    |            | [FLASK API](lessons/flask.md)|
-|    7    |            | [FLASK dag 2](lessons/flask_2.md)           |
+|    5    |     8/9    | [En introduktion til REST API](lessons/introduktion_til_rest_api.md)|
+|    6    |    10/9 (online)| [FLASK API](lessons/flask.md)|
+|    7    |      15/9  | [FLASK dag 2](lessons/flask_2.md)           |
 
 
 
 #### Docker
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|    4    |            | [Linux OS](materialer/docker1/docker_1.md)|
+|    4    |       19/9 | [Linux OS](materialer/docker1/docker_1.md)|
 |    8    |            | [Docker](materialer/docker2/docker_2.md)|
 |    9    |            | [Docker Compose](materialer/docker3/docker_3.md)|
 
