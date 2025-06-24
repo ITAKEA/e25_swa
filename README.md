@@ -38,18 +38,18 @@
 #### Software Testing
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   14    |     22/10  | [Softwaretests ](lessons/testing_1.md) (online) |
-|   15    |     27/10  | [](lessons/ses10.md) |
-|   16    |     31/10  | [](lessons/ses10.md) |
-|   17    |     3/11   | [](lessons/ses10.md) |
+|   14    |     20/10  | [Softwaretests ](lessons/testing_1.md) (online) |
+|   15    |     22/10  | [](lessons/ses10.md) |
+|   16    |     27/10  | [](lessons/ses10.md) |
+|   17    |     31/10   | [](lessons/ses10.md) |
 
 #### Microservices
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   18    |      5/11  | [Microservices 1](lessons/ses10.md) (online) |
-|   19    |     10/11  | [Microservices 2](lessons/ses10.md)  |
-|   20    |     14/11  | [Docker Compose](materialer/docker3/docker_3.md) |
-|   21    |     20/10   | [](lessons/ses11.md) |
+|   18    |      3/11  | [Microservices 1](lessons/ses10.md) (online) |
+|   19    |     5/11  | [Microservices 2](lessons/ses10.md)  |
+|   20    |     10/11  | [Docker Compose](materialer/docker3/docker_3.md) |
+|   21    |     14/11   | [](lessons/ses11.md) |
 
 #### Softwaresikkerhed
 | Lektion |    Dato    |       Emne                            |
