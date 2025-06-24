@@ -1,6 +1,6 @@
 ## Softwarearkitektur ITA efterår 2025
 
-## Lektionsplan
+### Lektionsplan
 
 #### Python
 | Lektion |    Dato    |       Emne                            |
