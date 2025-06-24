@@ -30,7 +30,7 @@
 #### OOP
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|9|24/9|[Objektorienteret programmering](lessons/oop_1.md) (online)|
+|    9    |    24/9    |[Objektorienteret programmering](lessons/oop_1.md) (online)|
 |   10    |     29/9   | [OOP](lessons/oop_2.md)  |
 |   11    |      3/10  | [OOP - Arv, polymorphi](lessons/oop_2.md) |
 |   12    |     6/10   | [ORM - Object relational manager - Databaser](lessons/oop_2.md) |
@@ -39,7 +39,6 @@
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
 |   12    |    8/10    | [Design principper 1 - SRP, Low Coupling, High Coheasion, ](lessons/design_principper_1.md)  (online)|
-|||Efterårsferie|
 |   13    |    20/10   | [Design principper 2](lessons/ses11.md) |
 
 #### Software Testing
@@ -63,21 +62,21 @@
 #### Softwaresikkerhed
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   20    |     19/11       | [](lessons/ses10.md) (online)  |
-|   21    |     24/11       | [](lessons/ses10.md)  |
-|   22    |     28/11       | [](lessons/ses10.md)  |
+|   20    |    19/11   | [](lessons/ses10.md) (online)  |
+|   21    |     24/11  | [](lessons/ses10.md)  |
+|   22    |     28/11  | [](lessons/ses10.md)  |
 
 
 
 #### Eksamensprojekt
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|   23    |      1/12       | [](lessons/ses10.md)  |
-|   24    |     3/12       | [](lessons/ses10.md) (online)  |
-|   25    |     8/12       | [](lessons/ses10.md)  |
-|   26    |     12/12       | [](lessons/ses10.md)  |
-|   27    |     15/12|      [Eksamensprojekt ](lessons/ses10.md)  |
-|   28    |     17/12       | [](lessons/ses10.md)  |
+|   23    |      1/12  | [Eksamensprojekt ](lessons/ses10.md)    |
+|   24    |     3/12   | [](lessons/ses10.md) (online)  |
+|   25    |     8/12   | [](lessons/ses10.md)  |
+|   26    |     12/12  | [](lessons/ses10.md)  |
+|   27    |     15/12  | |
+|   28    |     17/12  | [](lessons/ses10.md)  |
 
 ## Om faget
 * [Læs mere om faget her](formalia/about_this_elective.md)
