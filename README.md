@@ -5,9 +5,9 @@
 #### Python
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|    1    |    27/8    | [Introduktion til python](lessons/py_intro_1.md)                |
-|    2    |    1/9     | [Python - datastrukture](lessons/py_intro_2.md)                 |
-|    3    |     5/9    | [Python - modules, virtual environmnets, requirements.txt](lessons/py_intro_3.md)|
+|    1    |    27/8    | [Introduktion til python](materialer/intro1/py_intro_1.md)                |
+|    2    |    1/9     | [Python - datastrukture](materialer/intro2/py_intro_2.md)                 |
+|    3    |     5/9    | [Python - modules, virtual environmnets, requirements.txt](materialer/intro3/py_intro_3.md)|
 
 #### Rest API
 | Lektion |    Dato    |       Emne                            |
