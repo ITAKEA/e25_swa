@@ -177,3 +177,7 @@ cython_debug/
 .DS_Store
 
 teacher/*
+
+# øvelser løsninger
+materialer/intro1/solutions
+
