@@ -16,24 +16,14 @@
 |    6    |    10/9    | [FLASK API](lessons/flask.md) (online)|
 |    7    |      15/9  | [FLASK dag 2](lessons/flask_2.md)           |
 
-#### Docker
-| Lektion |    Dato    |       Emne                            |
-|:-----:|:---------:|:----------------------------------------------------------|
-|    4    |      19/9  | [Linux OS](materialer/docker1/docker_1.md)|
-|    8    |      22/9  | [Docker](materialer/docker2/docker_2.md)|
-
 #### OOP
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
 |    9    |    24/9    | [Objektorienteret programmering](lessons/oop_1.md) (online)|
 |   10    |     29/9   | [OOP](lessons/oop_2.md)  |
-|   11    |      3/10  | [OOP - Arv, polymorphi](lessons/oop_2.md) |
-|   12    |     6/10   | [ORM - Object relational manager - Databaser](lessons/oop_2.md) |
-
-#### Design principper
-| Lektion |    Dato    |       Emne                            |
-|:-----:|:---------:|:----------------------------------------------------------|
-|   13    |    8/10    | [Design principper 1 - SRP, Low Coupling, High Coheasion, ](lessons/design_principper_1.md)  (online)|
+|   11    |      3/10  | [OOP - Arv, polymorphi, Abstrakte klasser](lessons/oop_2.md) |
+|   12    |     6/10   | [Dependency injection](lessons/oop_2.md) |
+|   13    |    8/10    | [ORM - Object relational manager - Databaser](lessons/design_principper_1.md)  (online)|
 
 #### Software Testing
 | Lektion |    Dato    |       Emne                            |
@@ -43,8 +33,14 @@
 |   16    |     27/10  | [](lessons/ses10.md) |
 |   17    |     31/10   | [](lessons/ses10.md) |
 
-#### Microservices
+#### Docker
 | Lektion |    Dato    |       Emne                            |
+|:-----:|:---------:|:----------------------------------------------------------|
+|    4    |      19/9  | [Linux OS](materialer/docker1/docker_1.md)|
+|    8    |      22/9  | [Docker](materialer/docker2/docker_2.md)|
+
+#### Microservices
+| Lektion |    Dato    |       Emne                         |
 |:-----:|:---------:|:----------------------------------------------------------|
 |   18    |      3/11  | [Microservices 1](lessons/ses10.md) (online) |
 |   19    |     5/11  | [Microservices 2](lessons/ses10.md)  |
@@ -56,12 +52,13 @@
 |:-----:|:---------:|:----------------------------------------------------------|
 |   22    |     17/11  | [Authorization med JWT](lessons/ses10.md)  |
 |   23    |    19/11   | [SQL injections](lessons/ses10.md) (online)  |
-|   24    |     24/11  | [](lessons/ses10.md)  |
-|   25    |     28/11  | [](lessons/ses10.md)  |
+
 
 #### Eksamensprojekt
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
+|   24    |     24/11  | [](lessons/ses10.md)  |
+|   25    |     28/11  | [](lessons/ses10.md)  |
 |   26    |      1/12  | [Eksamensprojekt ](lessons/ses10.md)    |
 |   27    |     3/12   | [](lessons/ses10.md) (online)  |
 |   28    |     8/12   | [](lessons/ses10.md)  |
