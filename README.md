@@ -9,13 +9,6 @@
 |    2    |    1/9     | [Python - datastrukture](materialer/intro2/py_intro_2.md)                 |
 |    3    |     5/9    | [Python - modules, virtual environmnets, requirements.txt](materialer/intro3/py_intro_3.md)|
 
-#### Rest API
-| Lektion |    Dato    |       Emne                            |
-|:-----:|:---------:|:----------------------------------------------------------|
-|    5    |     8/9    | [En introduktion til REST API](lessons/introduktion_til_rest_api.md)|
-|    6    |    10/9    | [FLASK API](lessons/flask.md) (online)|
-|    7    |      15/9  | [FLASK dag 2](lessons/flask_2.md)           |
-
 #### OOP
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
@@ -32,6 +25,13 @@
 |   15    |     22/10  | [](lessons/ses10.md) |
 |   16    |     27/10  | [](lessons/ses10.md) |
 |   17    |     31/10   | [](lessons/ses10.md) |
+
+#### Rest API
+| Lektion |    Dato    |       Emne                            |
+|:-----:|:---------:|:----------------------------------------------------------|
+|    5    |     8/9    | [En introduktion til REST API](lessons/introduktion_til_rest_api.md)|
+|    6    |    10/9    | [FLASK API](lessons/flask.md) (online)|
+|    7    |      15/9  | [FLASK dag 2](lessons/flask_2.md)           |
 
 #### Docker
 | Lektion |    Dato    |       Emne                            |
