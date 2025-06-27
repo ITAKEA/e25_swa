@@ -16,7 +16,7 @@
 |        |            | [OOP](lessons/oop_2.md)  |
 |        |            | [OOP - Arv, polymorphi, Abstrakte klasser](lessons/oop_2.md) |
 |        |            | [Dependency injection](lessons/oop_2.md) |
-|        |            | [ORM - Object relational manager - Databaser](lessons/design_principper_1.md)  (online)|
+
 
 #### Software Testing
 | Lektion |    Dato    |       Emne                            |
@@ -46,6 +46,7 @@
 |       |       | Projekt dag 1 |
 |       |       | Projekt dag 2 |
 |       |       | Projekt dag 3 |
+|       |       | Projekt dag 4 |
 
 #### Microservices
 | Lektion |    Dato    |       Emne                         |
