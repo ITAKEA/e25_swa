@@ -13,8 +13,8 @@
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
 |        |            | [Objektorienteret programmering](lessons/oop_1.md) (online)|
-|        |            | [OOP](lessons/oop_2.md)  |
-|        |            | [OOP - Arv, polymorphi, Abstrakte klasser](lessons/oop_2.md) |
+|        |            | [OOP - Arv, polymorphi, Abstrakte klasser](lessons/oop_2.md)  |
+|        |            | [GoF Designpatterns]()|
 |        |            | [Dependency injection](lessons/oop_2.md) |
 
 
