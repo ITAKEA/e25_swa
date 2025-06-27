@@ -38,7 +38,7 @@
 |        |            | [Linux OS](materialer/docker1/docker_1.md)|
 |        |            | [Docker](materialer/docker2/docker_2.md)|
 
-### Efteråårsferie
+### Efterårsferie
 
 #### Projekt
 | Lektion |    Dato    |       Emne                         |
