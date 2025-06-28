@@ -22,7 +22,7 @@
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
 |        |            | [Softwaretests ](lessons/testing_1.md) (online) |
-|        |            | [](lessons/ses10.md) |
+|        |            | [Mocks](lessons/ses10.md) |
 |        |            | [](lessons/ses10.md) |
 |        |            | [](lessons/ses10.md) |
 
