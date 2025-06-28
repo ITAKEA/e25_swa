@@ -9,8 +9,18 @@
 
 Efter at have arbejdet med disse emner vil du være i stand til at:
 
-- Oprette klasser, objekter, instans- og klassevariabler, metoder og initialiseringsmetoder.
-- Forklare, hvornår og hvorfor man skal bruge klasser og objekter i stedet for procedurestil.
+- Oprette klasser, objekter, instans- og klassevariabler, metoder og init-metoder.
+- Kunne arbejde med private og public variabler
+- Kunne oprette assessors and mutators metoder (getters og setters)
+- Forklare, hvornår og hvorfor man skal bruge klasser og objekter i stedet for en procedural programeringsstil.
+
+## Dagen i dag
+
+Vi starter med med en række forståelsesspørgsmål rettet mod det i har læst til i dag gennem denne [Quiz](https://realpython.com/quizzes/python3-object-oriented-programming/), og denne [notebook](notebook_quiz.ipynb).   
+
+Herefter gennemgår vi sammen [dette eksempel](oop_basic_start.ipynb).    
+
+Og så står resten af dagen på ping/pong øvelser fra [øvelses papiret her](exercises.md)
 
 ## Materialer
 
@@ -21,15 +31,13 @@ Efter at have arbejdet med disse emner vil du være i stand til at:
 
 ## Øvelser
 
----
-
 ### Øvelse 1: Bank Øvelse
 
 [Løsning](exercises/solution/04_oop/solution.rst)
 
 Opret en Bank, en Konto, og en Kunde klasse.
 
-- Alle klasser skal være i en enkelt fil.
+- Alle klasser skal være i hver deres modul (.py fil).
 - Bankklassen skal kunne indeholde mange konti.
 - Du skal kunne tilføje nye konti.
 - Kontoklassen skal have relevante detaljer.
@@ -71,7 +79,7 @@ Lad os starte med det første spørgsmål.
 
 I denne øvelse skal du oprette en simpel terminalversion af dette [Angry Bird online kodningslæringsværktøj for børn](https://studio.code.org/hoc/1).
 
-![Angry Bird](assets/angry_bird.png)
+![Angry Bird](angry_bird.png)
 
 Du skal lave dette som en OOP-applikation, og dine klasser kunne se sådan ud:
 
