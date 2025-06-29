@@ -30,13 +30,12 @@ Vi kommer desuden til at arbejde med abstrakte klasser [abstract base class (ABC
 ## Materialer
 
 - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
-- [inheritance](https://realpython.com/ref/glossary/inheritance/)
-- [Python base class](https://realpython.com/ref/glossary/base-class/)
-- [Python abstract base class (ABC)](https://realpython.com/ref/glossary/abstract-base-class/)
-- [super()](https://realpython.com/ref/builtin-functions/super/)
-- [polymorphism](https://realpython.com/ref/glossary/polymorphism/)
-- [method overriding](https://realpython.com/ref/glossary/method-overriding/)
-- []()
+- [Python Glossary - inheritance](https://realpython.com/ref/glossary/inheritance/)
+- [Python Glossary - base class](https://realpython.com/ref/glossary/base-class/)
+- [Python Glossary - abstract base class (ABC)](https://realpython.com/ref/glossary/abstract-base-class/)
+- [Python Glossary - super()](https://realpython.com/ref/builtin-functions/super/)
+- [Python Glossary - polymorphism](https://realpython.com/ref/glossary/polymorphism/)
+- [Python Glossary - method overriding](https://realpython.com/ref/glossary/method-overriding/)
 - [Notebook on classes](notebooks/class_notes.ipynb)
 - [Code examples from teachings](https://github.com/python-elective-kea/fall2023-code-examples-from-teachings/tree/master/ses7)
 

@@ -37,9 +37,10 @@ Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```, o
 * [Moduler og pakker i python 1 (egne moduler)](https://youtu.be/miGblWWfsvY) (8:37)
 * [Moduler og pakker i python 2 (indbyggede)](https://youtu.be/sEvWF1YLxXs) (6:12)
 * [Moduler og pakker i python 3 (3. parts)](https://youtu.be/wbEWDsj3vIg) (8:20)
+* [Python Glossary - virtual environment](https://realpython.com/ref/glossary/virtual-environment/)
 * [Python Module Index](https://docs.python.org/3/py-modindex.html) 
 * [Requests: HTTP for Humans™](https://docs.python-requests.org/en/latest/)
-* [Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
+
 
 ## Øvelser
 
