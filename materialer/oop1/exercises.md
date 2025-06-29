@@ -14,7 +14,7 @@ Opret en Bank, en Konto, og en Kunde klasse.
 
 Husk at gøre din kode "pythonic"; den skal være simpel, let at læse, præcis og uden unødvendig kode. Hold dig til de teknikker, vi har dækket indtil nu.
 
-### __init__
+### \_\_init\_\_
 - Tilføj muligheden for at dine objecter kan tage imod forskellige parametre når de oprettes. Eks.: 
 
 ````
