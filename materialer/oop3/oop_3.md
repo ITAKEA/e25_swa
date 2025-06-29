@@ -1,49 +1,40 @@
-# Objektorienteret programmering (OOP)
+# OOP - Arv, komposition, polymorphi, abstrakte klasser
 
 
 ## Forberedelse
 
-* Før denne lektion skal du have læst og forstået teksten [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/).
-    * Du skal læse fra begyndelsen til og med afsnittet [How Do You Instantiate a Class in Python?](https://realpython.com/python3-object-oriented-programming/#how-do-you-instantiate-a-class-in-python).
-* Du skal herefter skimme disse korte tekster igennem:
-    - [object-oriented programming (OOP)](https://realpython.com/ref/glossary/oop/)
-    - [Python Class](https://realpython.com/ref/glossary/class/)
-    - [Class attribute](https://realpython.com/ref/glossary/attribute/)
-    - [Python methods](https://realpython.com/ref/glossary/method/)
-    * [Python function arguments](https://realpython.com/ref/glossary/argument/)
-    - [Python type Annotation](https://realpython.com/ref/glossary/annotation/)
-    - [Composition](https://realpython.com/ref/glossary/composition/)
-    - [instance](https://realpython.com/ref/glossary/instance/)
-    - [method overriding](https://realpython.com/ref/glossary/method-overriding/)
+* Før denne lektion skal du have læst og forstået resten af teksten fra sidst [How Do You Inherit From Another Class in Python?](https://realpython.com/python3-object-oriented-programming/#how-do-you-inherit-from-another-class-in-python).
+
+
 
 ## Læringsmål
 
 Efter at have arbejdet med disse emner vil du være i stand til at:
 
 - Oprette klasser, objekter, instans- og klassevariabler, metoder og init-metoder.
-- Kunne bruge komposition til at forbinde objekter.
-- Forstå pythons type annotationer.
+- Kunne arbejde med private og public variabler
+- Kunne oprette assessors and mutators metoder (getters og setters)
 - Forklare, hvornår og hvorfor man skal bruge klasser og objekter i stedet for en procedural programeringsstil.
 
 ## Dagen i dag
 
-Vi starter med med en række forståelsesspørgsmål rettet mod det i har læst til i dag gennem denne [Quiz](https://realpython.com/quizzes/python3-object-oriented-programming/), og denne [notebook](notebook_quiz.ipynb).   
+Vi starter med at lave resten af den quiz vi kiggede på sidst. [Quiz](https://realpython.com/quizzes/python3-object-oriented-programming/), og denne [notebook](notebook_quiz_dag_2.ipynb).   
 
-Herefter gennemgår vi sammen [dette eksempel](oop_basic_start.ipynb).    
+Herefter gennemgår vi sammen [dette eksempel](oop_inheritance_composition.ipynb).    
 
 Og så står resten af dagen på ping/pong øvelser fra [øvelses papiret her](exercises.md)
+
+Vi kommer desuden til at arbejde med abstrakte klasser [abstract base class (ABC)](https://realpython.com/ref/glossary/abstract-base-class/)
+
 
 ## Materialer
 
 - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
-- [object-oriented programming (OOP)](https://realpython.com/ref/glossary/oop/)
-- [Python Class](https://realpython.com/ref/glossary/class/)
-- [Class attribute](https://realpython.com/ref/glossary/attribute/)
-- [Python methods](https://realpython.com/ref/glossary/method/)
-* [Python function arguments](https://realpython.com/ref/glossary/argument/)
-- [Python type Annotation](https://realpython.com/ref/glossary/annotation/)
-- [Composition](https://realpython.com/ref/glossary/composition/)
-- [instance](https://realpython.com/ref/glossary/instance/)
+- [inheritance](https://realpython.com/ref/glossary/inheritance/)
+- [Python base class](https://realpython.com/ref/glossary/base-class/)
+- [Python abstract base class (ABC)](https://realpython.com/ref/glossary/abstract-base-class/)
+- [super()](https://realpython.com/ref/builtin-functions/super/)
+- [polymorphism](https://realpython.com/ref/glossary/polymorphism/)
 - []()
 - [Notebook on classes](notebooks/class_notes.ipynb)
 - [Code examples from teachings](https://github.com/python-elective-kea/fall2023-code-examples-from-teachings/tree/master/ses7)

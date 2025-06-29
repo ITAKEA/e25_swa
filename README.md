@@ -12,10 +12,10 @@
 #### OOP
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|        |            | [Objektorienteret programmering](lessons/oop_1.md) (online)|
-|        |            | [OOP - Arv, polymorphi, Abstrakte klasser](lessons/oop_2.md)  |
-|        |            | [GoF Designpatterns]()|
-|        |            | [Dependency injection](lessons/oop_2.md) |
+|        |            | [Objektorienteret programmering](materialer/oop1/oop_1.md)|
+|        |            | [OOP - Arv, polymorphi, Abstrakte klasser](materialer/oop2/oop_2.md)  |
+|        |            | [GoF Designpatterns](materialer/oop3/oop_3.md)|
+|        |            | [Dependency injection](materialer/oop4/oop_4.md) |
 
 
 #### Software Testing
