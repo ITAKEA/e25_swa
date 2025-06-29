@@ -15,7 +15,7 @@ Opret en Bank, en Konto, og en Kunde klasse.
 Husk at gøre din kode "pythonic"; den skal være simpel, let at læse, præcis og uden unødvendig kode. Hold dig til de teknikker, vi har dækket indtil nu.
 
 ### __init__
-- Tilføj muligheden for at dine objecter kan tage imod forskellige parametre når de oprettes. Eks. `kunde1 = Kunde('Benny', 66)` og `kunde2 = Kunde('Birthe', 74, 'Pensionist')
+- Tilføj muligheden for at dine objecter kan tage imod forskellige parametre når de oprettes. Eks. `kunde1 = Kunde('Benny', 66)` og `kunde2 = Kunde('Birthe', 74, 'Pensionist')`
 
 
 ## Øvelse 2: Angry Bird

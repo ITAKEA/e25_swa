@@ -31,7 +31,7 @@ Vi starter med med en række forståelsesspørgsmål rettet mod det i har læst 
 
 Herefter gennemgår vi sammen [dette eksempel](oop_basic_start.ipynb).    
 
-Og så står resten af dagen på ping/pong øvelser fra [øvelses papiret her](exercises.md)
+Og så står resten af dagen på ping/pong [øvelser](exercises.md)
 
 ## Materialer
 
