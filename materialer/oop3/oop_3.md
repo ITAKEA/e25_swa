@@ -8,9 +8,15 @@
 
 
 ## Læringsmål
-
-Efter at have arbejdet med disse emner vil du være i stand til at:
-
+* Have en forståelse for hvorfor man bruger og hvad design patterns er
+* Kunne skrive og foklare kode der gør brug af følgende design patterns:
+    * Singleton
+    * Factory (Factory Method og Abstract Factory)
+    * Decorator
+    * Facade
+    * Proxy
+    * Strategy
+    
 
 ## Dagen i dag
 
@@ -18,108 +24,16 @@ Efter at have arbejdet med disse emner vil du være i stand til at:
 
 
 ## Materialer
+* [Design Patterns in Python](https://medium.com/@amirm.lavasani/design-patterns-in-python-a-series-f502b7804ae5)
+* [Design Patterns in Python: Singleton](https://medium.com/@amirm.lavasani/design-patterns-in-python-singleton-5095a4c14f)
+* [Design Patterns in Python: Factory Method](https://medium.com/@amirm.lavasani/design-patterns-in-python-factory-method-1882d9a06cb4)
+* [Design Patterns in Python: Abstract Factory](https://medium.com/@amirm.lavasani/design-patterns-in-python-abstract-factory-2dcae06e5d29)
+* [Design Patterns in Python: Decorator](https://medium.com/@amirm.lavasani/design-patterns-in-python-decorator-c882c0db6501)
+* [Design Patterns in Python: Facade](https://medium.com/@amirm.lavasani/design-patterns-in-python-facade-0043afc9aa4a)
+* [Design Patterns in Python: Proxy](https://medium.com/@amirm.lavasani/design-patterns-in-python-proxy-bd04fedbe83d)
+* [Design Patterns in Python: Strategy](https://medium.com/@amirm.lavasani/design-patterns-in-python-strategy-7b14f1c4c162)
+* [Øvelser](exercises.md)
 
-- [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
-- [inheritance](https://realpython.com/ref/glossary/inheritance/)
-- [Python base class](https://realpython.com/ref/glossary/base-class/)
-- [Python abstract base class (ABC)](https://realpython.com/ref/glossary/abstract-base-class/)
-- [super()](https://realpython.com/ref/builtin-functions/super/)
-- [polymorphism](https://realpython.com/ref/glossary/polymorphism/)
-- []()
-- [Notebook on classes](notebooks/class_notes.ipynb)
-- [Code examples from teachings](https://github.com/python-elective-kea/fall2023-code-examples-from-teachings/tree/master/ses7)
 
 ## Øvelser
-
-### Øvelse 1: Bank Øvelse
-
-[Løsning](exercises/solution/04_oop/solution.rst)
-
-Opret en Bank, en Konto, og en Kunde klasse.
-
-- Alle klasser skal være i hver deres modul (.py fil).
-- Bankklassen skal kunne indeholde mange konti.
-- Du skal kunne tilføje nye konti.
-- Kontoklassen skal have relevante detaljer.
-- Kundeklassen skal også have relevante detaljer.
-
-Husk at gøre din kode "pythonic"; den skal være simpel, let at læse, præcis og uden unødvendig kode. Hold dig til de teknikker, vi har dækket indtil nu.
-
-- Tilføj evnen for din `__init__` metode til at håndtere forskellige inputs (parametre).
-
----
-
-### Øvelse 2: OOP promt øvelser
-
-Kopier/indsæt dette i din LLM prompt.
-
-```plaintext
-Jeg vil gerne have en score for, hvor godt min Python-programmering med fokus på pythonic OOP er. Scoren skal være fra 1 til 10.
-
-Du skal give mig øvelser en ad gangen. Øvelsen skal løses med kode. Øvelserne skal matche det niveau, du tror, jeg er på.
-
-Du vil give øvelsen, og jeg vil give dig koden. For hver øvelse skal du skrive, hvilket niveau du tror, jeg er på.
-
-Når du er sikker på mit niveau, skal du generere en rapport. Rapporten skal indeholde følgende:
-1. Det niveau, du tror, jeg er på.
-2. Feedback på den kode, jeg skrev.
-3. Hvor jeg skal fokusere for at forbedre mig.
-
-Lad os starte med det første spørgsmål.
-```
-
-> **Note:**
-> Husk, dine færdigheder i Pythonic OOP behøver ikke at være som en "ekspert" endnu. Men om få uger kan du prøve det igen og skulle få et bedre resultat.
-
----
-
-### Øvelse 3: Angry Bird
-
-[Løsning](exercises/solution/04_oop/solution.rst)
-
-I denne øvelse skal du oprette en simpel terminalversion af dette [Angry Bird online kodningslæringsværktøj for børn](https://studio.code.org/hoc/1).
-
-![Angry Bird](angry_bird.png)
-
-Du skal lave dette som en OOP-applikation, og dine klasser kunne se sådan ud:
-
-**Fugl**
-
-Skal kende sin *nuværende position* og skal vide, i hvilken *retning* den bevæger sig. Den skal kunne *bevæge sig fremad*, *dreje til venstre* og *dreje til højre*. Den skal også have en handling, der aktiveres, når den taber spillet, og en, når den vinder.
-
-**Gris**
-
-Skal kende sin *position*. Den skal også have en handling, der aktiveres, når den taber spillet, og en, når den vinder.
-
-**Bræt**
-
-Skal initialisere en Fugl og en Gris objekt. Den skal *vise* brættet med fuglen og grisen i startpositioner. Den skal have en *kørselsmetode*.
-
-```plaintext
-*  *  *  *  *  *  *  *  *  *
-*  *  *  *  *  *  *  *  *  *
-*  *  B  *  *  *  *  *  *  *
-*  *  *  *  *  *  *  *  *  *
-*  *  *  *  *  *  *  *  *  *
-*  *  *  *  *  *  *  *  *  *
-*  *  *  *  *  *  *  *  *  *
-*  *  *  *  *  *  P  *  *  *
-*  *  *  *  *  *  *  *  *  *
-*  *  *  *  *  *  *  *  *  *
-```
-
-**Arbejdsområde**
-
-Skal have en visningsmetode, der udskriver instruktioner om, hvad man skal gøre. Den skal have en metode, der er ansvarlig for at oprette en samling af kommandoer fra brugerinput.
-
-**Spil**
-
-Denne klasse er ansvarlig for at køre applikationen. Den skal oprette objekter af Bræt og Arbejdsområde og kalde deres visningsmetoder. Den skal også være ansvarlig for at afgøre, om fuglen ramte grisen eller ej.
-
-### Screencast
-
-Du kan se en prototype af denne øvelse her. Du er selvfølgelig velkommen til at forbedre spillet, men dette kunne være en løsning.
-
-* [Angry bird inspiration](https://youtu.be/n9Ths1CSCkU?si=gBvTNk3p4Odux7yQ)
-
 
