@@ -24,6 +24,9 @@ Mine undervisningsnoter kan i se her:
 De sprogelementer vi kommer til at arbejde med i dag kan i læse om her (brug det som et opslagsværk):
 
 
+
+
+
 - [Python](https://www.w3schools.com/python/default.asp)
   - [Python Home](https://www.w3schools.com/python/default.asp)
   - [Python Intro](https://www.w3schools.com/python/python_intro.asp)
@@ -56,8 +59,17 @@ De sprogelementer vi kommer til at arbejde med i dag kan i læse om her (brug de
 ### Materialer
 
 * [Slides]()
+* [Python Glossary - variable](https://realpython.com/ref/glossary/variable/)
+* [Python Glossary - type()](https://realpython.com/ref/glossary/type/)
+* [Python Glossary - len()](https://realpython.com/ref/builtin-functions/len/)
+* [Python Glossary - function()](https://realpython.com/ref/glossary/function/)
+* [Python Glossary - comment](https://realpython.com/ref/glossary/comment/) 
+* [Python Glossary - f-string](https://realpython.com/ref/glossary/f-string/) 
+* [Python Glossary - ]() 
+* [Python Glossary - ]() 
+
+
 * [Built-in Functions](https://docs.python.org/3/library/functions.html)
-* [Kodeeksempler fra undervisningen]()
 * [Øvelser](exercises.md)
 
 
