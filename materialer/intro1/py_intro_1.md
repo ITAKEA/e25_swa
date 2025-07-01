@@ -65,7 +65,7 @@ De sprogelementer vi kommer til at arbejde med i dag kan i læse om her (brug de
 * [Python Glossary - function()](https://realpython.com/ref/glossary/function/)
 * [Python Glossary - comment](https://realpython.com/ref/glossary/comment/) 
 * [Python Glossary - f-string](https://realpython.com/ref/glossary/f-string/) 
-* [Python Glossary - ]() 
+* [Python Glossary - Python’s Built-in Data Types](https://realpython.com/ref/builtin-types/) 
 * [Python Glossary - ]() 
 
 

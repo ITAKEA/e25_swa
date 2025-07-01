@@ -1,10 +1,9 @@
 # Objektorienteret programmering (OOP)
-
+I har sidste semester haft om Object orienteret programmering i faget CS101. Vi tager en lektion med repitition af emnet. De grundlæggende pricipper er de samme i python som de er i Kotlin og i alle andre sprog, der er dog altid en smule kosmestiske forskelle som selvfølgelig er vigtige at få med.
 
 ## Forberedelse
 
 * Før denne lektion skal du have læst og forstået teksten [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/).
-    * Du skal læse fra begyndelsen til og med afsnittet [How Do You Instantiate a Class in Python?](https://realpython.com/python3-object-oriented-programming/#how-do-you-instantiate-a-class-in-python).
 * Du skal herefter skimme disse korte tekster igennem:
     - [object-oriented programming (OOP)](https://realpython.com/ref/glossary/oop/)
     - [Python Class](https://realpython.com/ref/glossary/class/)
@@ -21,6 +20,8 @@
 Efter at have arbejdet med disse emner vil du være i stand til at:
 
 - Oprette klasser, objekter, instans- og klassevariabler, metoder og init-metoder.
+- Kunne arbejde med private og public variabler
+- Kunne oprette assessors and mutators metoder (getters og setters)
 - Kunne bruge komposition til at forbinde objekter.
 - Forstå pythons type annotationer.
 - Forklare, hvornår og hvorfor man skal bruge klasser og objekter i stedet for en procedural programeringsstil.

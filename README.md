@@ -21,7 +21,7 @@
 #### Software Testing
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|        |            | [Softwaretests ](lessons/testing_1.md) (online) |
+|        |            | [Softwaretests ](materialer/tests1/testing_1.md) (online) |
 |        |            | [Mocks](lessons/ses10.md) |
 |        |            | [](lessons/ses10.md) |
 |        |            | [](lessons/ses10.md) |
@@ -29,8 +29,8 @@
 #### Rest API
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|        |            | [En introduktion til REST API](lessons/introduktion_til_rest_api.md)|
-|        |            | [FLASK API](lessons/flask.md) (online)|
+|        |            | [En introduktion til REST API](materialer/restapi1/introduktion_til_rest_api.md)|
+|        |            | [FLASK API](materialer/restapi2/flask.md) (online)|
 
 #### Docker
 | Lektion |    Dato    |       Emne                            |
@@ -38,14 +38,14 @@
 |        |            | [Linux OS](materialer/docker1/docker_1.md)|
 |        |            | [Docker](materialer/docker2/docker_2.md)|
 
-### Efterårsferie
+### Efterårsferie (uge 42)
 
 #### Projekt
 | Lektion |    Dato    |       Emne                         |
 |:-----:|:---------:|:----------------------------------------------------------|
-|       |       | Projekt dag 1 |
+|   43   |       | Projekt dag 1 |
 |       |       | Projekt dag 2 |
-|       |       | Projekt dag 3 |
+|    44  |       | Projekt dag 3 |
 |       |       | Projekt dag 4 |
 
 #### Microservices
@@ -59,7 +59,7 @@
 #### Eksamensprojekt
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|        |            | [](lessons/ses10.md)  |
+|        |     24/11  | [](lessons/ses10.md)  |
 |        |            | [](lessons/ses10.md)  |
 |        |            | [Eksamensprojekt ](lessons/ses10.md)    |
 |        |            | [](lessons/ses10.md) (online)  |
