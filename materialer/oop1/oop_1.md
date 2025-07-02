@@ -29,6 +29,7 @@ Efter at have arbejdet med disse emner vil du være i stand til at:
 - Kunne bruge komposition til at forbinde objekter.
 - Forstå pythons type annotationer.
 - Kunne arbejde med Arv og polymorphism.
+- Forstå begreberne Abstraction, Encapsulation, Inheritance og polymorphism og konkretisere dem i forhold til gennemgået kode.
 - Forklare, hvornår og hvorfor man skal bruge klasser og objekter i stedet for en procedural programeringsstil.
 
 ## Dagen i dag
