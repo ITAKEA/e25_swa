@@ -1,19 +1,23 @@
 # Objektorienteret programmering (OOP)
-I har sidste semester haft om Object orienteret programmering i faget CS101. Vi tager en lektion med repitition af emnet. De grundlæggende pricipper er de samme i python som de er i Kotlin og i alle andre sprog, der er dog altid en smule kosmestiske forskelle som selvfølgelig er vigtige at få med.
+I har sidste semester haft om Object orienteret programmering i faget CS101. Vi tager en lektion med repitition af emnet. De grundlæggende pricipper er de samme i python som de er i Kotlin og i alle andre sprog, der er dog altid en smule kosmestiske forskelle som selvfølgelig er vigtige at få med. Desuden er det vigtigt for de fremtideige emner at i har styr på disse grundlæggende dele af OOP.    
 
 ## Forberedelse
 
 * Før denne lektion skal du have læst og forstået teksten [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/).
 * Du skal herefter skimme disse korte tekster igennem:
-    - [object-oriented programming (OOP)](https://realpython.com/ref/glossary/oop/)
-    - [Python Class](https://realpython.com/ref/glossary/class/)
-    - [Class attribute](https://realpython.com/ref/glossary/attribute/)
-    - [Python methods](https://realpython.com/ref/glossary/method/)
-    * [Python function arguments](https://realpython.com/ref/glossary/argument/)
-    - [Python type Annotation](https://realpython.com/ref/glossary/annotation/)
-    - [Composition](https://realpython.com/ref/glossary/composition/)
-    - [instance](https://realpython.com/ref/glossary/instance/)
-    - [method overriding](https://realpython.com/ref/glossary/method-overriding/)
+    - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+    - [Python Glossary - object-oriented programming (OOP)](https://realpython.com/ref/glossary/oop/)
+    - [Python Glossary - Class](https://realpython.com/ref/glossary/class/)
+    - [Python Glossary - Class attribute](https://realpython.com/ref/glossary/attribute/)
+    - [Python Glossary - methods](https://realpython.com/ref/glossary/method/)
+    - [Python Glossary - function arguments](https://realpython.com/ref/glossary/argument/)
+    - [Python Glossary - type Annotation](https://realpython.com/ref/glossary/annotation/)
+    - [Python Glossary - Composition](https://realpython.com/ref/glossary/composition/)
+    - [Python Glossary - inheritance](https://realpython.com/ref/glossary/inheritance/)
+    - [Python Glossary - base class](https://realpython.com/ref/glossary/base-class/)
+    - [Python Glossary - super()](https://realpython.com/ref/builtin-functions/super/)
+    - [Python Glossary - polymorphism](https://realpython.com/ref/glossary/polymorphism/)
+    - [Python Glossary - method overriding](https://realpython.com/ref/glossary/method-overriding/)
 
 ## Læringsmål
 
@@ -21,9 +25,10 @@ Efter at have arbejdet med disse emner vil du være i stand til at:
 
 - Oprette klasser, objekter, instans- og klassevariabler, metoder og init-metoder.
 - Kunne arbejde med private og public variabler
-- Kunne oprette assessors and mutators metoder (getters og setters)
+- Kunne oprette private og public metoder
 - Kunne bruge komposition til at forbinde objekter.
 - Forstå pythons type annotationer.
+- Kunne arbejde med Arv og polymorphism.
 - Forklare, hvornår og hvorfor man skal bruge klasser og objekter i stedet for en procedural programeringsstil.
 
 ## Dagen i dag
@@ -44,5 +49,10 @@ Og så står resten af dagen på ping/pong [øvelser](exercises.md)
 - [Python Glossary - function arguments](https://realpython.com/ref/glossary/argument/)
 - [Python Glossary - type Annotation](https://realpython.com/ref/glossary/annotation/)
 - [Python Glossary - Composition](https://realpython.com/ref/glossary/composition/)
+- [Python Glossary - inheritance](https://realpython.com/ref/glossary/inheritance/)
+- [Python Glossary - base class](https://realpython.com/ref/glossary/base-class/)
+- [Python Glossary - super()](https://realpython.com/ref/builtin-functions/super/)
+- [Python Glossary - polymorphism](https://realpython.com/ref/glossary/polymorphism/)
+- [Python Glossary - method overriding](https://realpython.com/ref/glossary/method-overriding/)
 - [Øvelser](exercises.md)
 

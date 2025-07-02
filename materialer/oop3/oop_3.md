@@ -24,6 +24,7 @@
 
 
 ## Materialer
+* [Python Glossary - abstract base class (ABC)](https://realpython.com/ref/glossary/abstract-base-class/)
 * [Design Patterns in Python](https://medium.com/@amirm.lavasani/design-patterns-in-python-a-series-f502b7804ae5)
 * [Design Patterns in Python: Singleton](https://medium.com/@amirm.lavasani/design-patterns-in-python-singleton-5095a4c14f)
 * [Design Patterns in Python: Factory Method](https://medium.com/@amirm.lavasani/design-patterns-in-python-factory-method-1882d9a06cb4)
