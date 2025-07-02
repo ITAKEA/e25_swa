@@ -22,6 +22,7 @@ Vi kommer desuden til at arbejde med abstrakte klasser [abstract base class (ABC
 
 
 ## Materialer
+- [Implementing an Interface in Python](https://realpython.com/python-interface/)
 - [Python Glossary - inheritance](https://realpython.com/ref/glossary/inheritance/)
 - [Python Glossary - base class](https://realpython.com/ref/glossary/base-class/)
 - [Python Glossary - abstract base class (ABC)](https://realpython.com/ref/glossary/abstract-base-class/)
