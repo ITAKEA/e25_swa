@@ -1,24 +1,18 @@
-# OOP - Arv, komposition, polymorphi, abstrakte klasser
-
+# OOP - Interfaces og Abstrakte klasser
 
 ## Forberedelse
 
-* Før denne lektion skal du have læst og forstået resten af teksten fra sidst [How Do You Inherit From Another Class in Python?](https://realpython.com/python3-object-oriented-programming/#how-do-you-inherit-from-another-class-in-python).
-
-
+* Før denne lektion skal du have læst og arbejdet med denne tekst: [Implementing an Interface in Python](https://realpython.com/python-interface/). (2 timer)
 
 ## Læringsmål
 
 Efter at have arbejdet med disse emner vil du være i stand til at:
-
-- Oprette klasser, objekter, instans- og klassevariabler, metoder og init-metoder.
-- Kunne arbejde med private og public variabler
-- Kunne oprette assessors and mutators metoder (getters og setters)
-- Forklare, hvornår og hvorfor man skal bruge klasser og objekter i stedet for en procedural programeringsstil.
+* Have en forståelse for hvad et interface er og bruges til i OOP programmering.
+* Kunne skrive egne interfaces og implementere dem i egen kode.
 
 ## Dagen i dag
 
-Vi starter med at lave resten af den quiz vi kiggede på sidst. [Quiz](https://realpython.com/quizzes/python3-object-oriented-programming/), og denne [notebook](notebook_quiz_dag_2.ipynb).   
+Vi starter med denne [Implementing an Interface in Python Quiz](https://realpython.com/quizzes/interface-in-python/), og denne [notebook](notebook_quiz_dag_2.ipynb).   
 
 Herefter gennemgår vi sammen [dette eksempel](oop_inheritance_composition.ipynb).    
 
@@ -28,15 +22,11 @@ Vi kommer desuden til at arbejde med abstrakte klasser [abstract base class (ABC
 
 
 ## Materialer
-
-- [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
 - [Python Glossary - inheritance](https://realpython.com/ref/glossary/inheritance/)
 - [Python Glossary - base class](https://realpython.com/ref/glossary/base-class/)
 - [Python Glossary - abstract base class (ABC)](https://realpython.com/ref/glossary/abstract-base-class/)
 - [Python Glossary - super()](https://realpython.com/ref/builtin-functions/super/)
 - [Python Glossary - polymorphism](https://realpython.com/ref/glossary/polymorphism/)
 - [Python Glossary - method overriding](https://realpython.com/ref/glossary/method-overriding/)
-- [Notebook on classes](notebooks/class_notes.ipynb)
-- [Code examples from teachings](https://github.com/python-elective-kea/fall2023-code-examples-from-teachings/tree/master/ses7)
 
 

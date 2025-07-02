@@ -5,7 +5,6 @@ I har sidste semester haft om Object orienteret programmering i faget CS101. Vi 
 
 * Før denne lektion skal du have læst og forstået teksten [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/).
 * Du skal herefter skimme disse korte tekster igennem:
-    - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
     - [Python Glossary - object-oriented programming (OOP)](https://realpython.com/ref/glossary/oop/)
     - [Python Glossary - Class](https://realpython.com/ref/glossary/class/)
     - [Python Glossary - Class attribute](https://realpython.com/ref/glossary/attribute/)
@@ -28,13 +27,13 @@ Efter at have arbejdet med disse emner vil du være i stand til at:
 - Kunne oprette private og public metoder
 - Kunne bruge komposition til at forbinde objekter.
 - Forstå pythons type annotationer.
-- Kunne arbejde med Arv og polymorphism.
-- Forstå begreberne Abstraction, Encapsulation, Inheritance og polymorphism og konkretisere dem i forhold til gennemgået kode.
+- Kunne arbejde med Arv i din kode.
+- Forstå begreberne Abstraction, Encapsulation, Inheritance og Polymorphism og kunne konkretisere dem i forhold til egen og gennemgået kode.
 - Forklare, hvornår og hvorfor man skal bruge klasser og objekter i stedet for en procedural programeringsstil.
 
 ## Dagen i dag
 
-Vi starter med med en række forståelsesspørgsmål rettet mod det i har læst til i dag gennem denne [Quiz](https://realpython.com/quizzes/python3-object-oriented-programming/), og denne [notebook](notebook_quiz.ipynb).   
+Vi bruger den første time på en række forståelsesspørgsmål rettet mod det i har læst til i dag gennem denne [Quiz](https://realpython.com/quizzes/python3-object-oriented-programming/), og denne [notebook](notebook_quiz.ipynb).   
 
 Herefter gennemgår vi sammen [dette eksempel](oop_basic_start.ipynb).    
 
