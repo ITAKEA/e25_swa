@@ -35,7 +35,7 @@ Efter at have arbejdet med disse emner vil du være i stand til at:
 
 ## Dagen i dag
 
-Vi bruger den første time på en række forståelsesspørgsmål rettet mod det i har læst til i dag gennem denne [Quiz](https://realpython.com/quizzes/python3-object-oriented-programming/), og denne [notebook](notebook_quiz.ipynb).   
+Vi bruger den første time på en række forståelsesspørgsmål rettet mod det i har læst til i dag gennem denne [Quiz](https://realpython.com/quizzes/python-classes-oop/viewer/), og denne [notebook](notebook_quiz.ipynb).   
 
 Herefter gennemgår vi sammen [dette eksempel](oop_basic_start.ipynb).    
 
