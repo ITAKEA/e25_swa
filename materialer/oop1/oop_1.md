@@ -2,8 +2,10 @@
 I har sidste semester haft om Object orienteret programmering i faget CS101. Vi tager en lektion med repitition af emnet. De grundlæggende pricipper er de samme i python som de er i Kotlin og i alle andre sprog, der er dog altid en smule kosmestiske forskelle som selvfølgelig er vigtige at få med. Desuden er det vigtigt for de fremtideige emner at i har styr på disse grundlæggende dele af OOP.    
 
 ## Forberedelse
-
+<!--
 * Før denne lektion skal du have læst og forstået teksten [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/).
+-->
+* Før denne lektion skal du have læst og forstået teksten [Python Classes: The Power of Object-Oriented Programming](https://realpython.com/python-classes)
 * Du skal herefter skimme disse korte tekster igennem:
     - [Python Glossary - object-oriented programming (OOP)](https://realpython.com/ref/glossary/oop/)
     - [Python Glossary - Class](https://realpython.com/ref/glossary/class/)

@@ -5,7 +5,7 @@ Den sidste del af dagen kommer til at gå med at komme igang med at programmere 
 
 
 ## Læringsmål
-- Have et overblik over hvad i forventes at lære dette semester. 
+- Have et overblik over hvad du forventes at lære dette semester. 
 - Have grundlæggende kendskab til et udviklingsmiljø og vide, hvordan man bruger det.  
 - Have et grundlæggende kendskab til, hvordan et Python-script er struktureret.  
 - Kunne arbejde med Strings, betingelser og funktioner.

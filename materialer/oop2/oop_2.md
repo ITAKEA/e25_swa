@@ -1,4 +1,4 @@
-# OOP - Interfaces og Abstrakte klasser
+# OOP - Composition & Ingeritance, Interfaces og abstrakte klasser
 
 ## Forberedelse
 
