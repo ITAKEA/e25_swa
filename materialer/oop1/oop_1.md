@@ -6,6 +6,9 @@ I har sidste semester haft om Object orienteret programmering i faget CS101. Vi 
 * Før denne lektion skal du have læst og forstået teksten [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/).
 -->
 * Før denne lektion skal du have læst og forstået teksten [Python Classes: The Power of Object-Oriented Programming](https://realpython.com/python-classes)
+    * i skal ikke læse afsnittene:
+        * [Property and Descriptor-Based Attributes](https://realpython.com/python-classes/#property-and-descriptor-based-attributes)
+        * [Lightweight Classes With .__slots__](https://realpython.com/python-classes/#lightweight-classes-with-__slots__)
 * Du skal herefter skimme disse korte tekster igennem:
     - [Python Glossary - object-oriented programming (OOP)](https://realpython.com/ref/glossary/oop/)
     - [Python Glossary - Class](https://realpython.com/ref/glossary/class/)
