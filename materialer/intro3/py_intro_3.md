@@ -18,6 +18,7 @@
 Se følgende videoer om moduler og pakker,, og læs dokumentet om at arbejde med filer.    
 
 * [Moduler og pakker i python 1 (egne moduler)](https://youtu.be/miGblWWfsvY) (8:37)
+    * TODO: lav video om __init__
 * [Moduler og pakker i python 2 (indbyggede)](https://youtu.be/sEvWF1YLxXs) (6:12)
 * [Moduler og pakker i python 3 (3. parts)](https://youtu.be/wbEWDsj3vIg) (8:20)
 * [Arbejd med filer i Python](materialer/filer.html) (5:00)
