@@ -6,4 +6,5 @@
 
 ## Dagens indhold
 
-### Materials
+## Materialer
+* [Python Glossary - comments](https://realpython.com/ref/glossary/comment/)
