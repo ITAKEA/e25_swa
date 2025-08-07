@@ -1,19 +1,21 @@
 # Python - Datastrukture
 
-I dag skal vi arbejde med pythons datastrukturer. Python har som udgangspunkt kun fire indbyggede datastrukture. Det er Lister, Tuples, Sets og Dictionaries.     
-Efter i dag vil i være i stand til at oprette  Listes og Tupler, tilgå deres elementer vha. deres index, bruge pythons slicing værktøj på lister og tupler, bruge arethmetikske operatore på lister og tupler, bruge pythons indbyggede functioner på lister og tupler, arbejde med metoderne tilknyttet list og tuple objekterne, og i vil have en grundlæggende forståelse for forskellen i brugen af disse 2.     
+I dag skal vi arbejde med pythons datastrukturer. Python har som udgangspunkt fire indbyggede datastrukture. Det er 
+* Lister 
+* Tuples 
+* Sets 
+* Dictionaries
+
+Efter i dag vil i være i stand til at oprette Lister og Tupler, tilgå deres elementer vha. deres index, gøre brug af **slicing**, bruge arethmetikske operatore, bruge pythons indbyggede functioner på lister og tupler, arbejde med metoderne tilknyttet list og tuple objekterne, og i vil have en grundlæggende forståelse for forskellen i brugen af disse 2 (lister og tupler).     
 I vil kunne bruge Sets til at finde unikke verdier i en collection, og i vil arbejde med Dictionaries og forstå dens key : Value struktur.
 
 ## Læringsmål
----        
 - Arbejde med lister, tuples, dicts og sets
     - Arbejde med deres indeks
     - Bruge slicing syntaksen
 - Kende de vigtigste forskelle mellem lister, tuples, sets og dictionaries
-- Kunne arbejde med sortering af datastrukture
 
 ## Forberedelse
----
 Før vi mødes i klassen skal du have:
 
 * Skimmed denne artikkel: [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/) (15 min)
