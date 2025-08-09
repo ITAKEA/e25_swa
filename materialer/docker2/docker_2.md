@@ -37,7 +37,7 @@ Vi kommer til at bruge det i undervisningen, men for at undgå kø på skolens n
 ## Materialer
 
 * [Docker Tutorial for Beginners](https://youtu.be/pTFZFxd4hOI?feature=shared&t=146) (27:54)
-* [Docker CheatSheet](materialer/docker_cheatsheet.md)
+* [Docker CheatSheet](docker_cheatsheet.md)
 
 ### Øvelser
 
