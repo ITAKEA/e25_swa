@@ -19,7 +19,6 @@
 |   23       |            |         | [Microservices 2](lessons/ses10.md)  |
 |   11     |            |         | [](lessons/ses10.md) |
 |   12     |            |         | [](lessons/ses10.md) |
-
 |   15     |            |         | [Linux OS](materialer/docker1/docker_1.md)|
 |   16     |            |         | [Docker](materialer/docker2/docker_2.md)|
 |   17     |            |         | Efterårsferie (uge 42) |
