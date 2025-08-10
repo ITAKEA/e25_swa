@@ -9,7 +9,7 @@
 |    2    |            | [Python - datastrukture](materialer/intro2/py_intro_2.md)                 |
 |    3    |            | [Python - modules, virtual environmnets, requirements.txt](materialer/intro3/py_intro_3.md)|
 |    4    |            | [Objektorienteret programmering](materialer/oop1/oop_1.md)|
-|    5    |            | |
+|    5    |            | Online |
 |    6   |            | [Requests module analyse](materialer/requests_module/requests.md)|
 |    7    |            |          |
 |    8    |            |          |

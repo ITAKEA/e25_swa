@@ -29,7 +29,7 @@ Vi kommer til at bruge det i undervisningen, men for at undgå kø på skolens n
 
 ## Dagens indhold
 
-* Vi starter med en Michael agtig quiz for at teste jeres forståelse af emnet.
+* [Tutorial: Create a container app with Visual Studio Code](https://learn.microsoft.com/en-us/visualstudio/docker/tutorials/docker-tutorial?WT.mc_id=vscode_docker_aka_getstartedwithdocker)
 * Herefter snakker vi udfra dette [Docker CheatSheet](materialer/docker_cheatsheet.md)
 * Og laver dernæst en Hello World python/docker applikation sammen.
 * Og så ... øvelserne herunder. 
