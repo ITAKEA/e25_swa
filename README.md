@@ -26,7 +26,6 @@
 |   19       |       |         | Projekt dag 2 |
 |   20 (44)  |       |         | Projekt dag 3 |
 |   21       |       |         | Projekt dag 4 |
-
 |   24       |            |         | [Docker Compose](materialer/docker3/docker_3.md) |
 |   25       |            |         | [Authorization med JWT](lessons/ses10.md)  |
 |    9    |            |         | [Softwaretests ](materialer/tests1/testing_1.md) |
