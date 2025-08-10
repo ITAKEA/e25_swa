@@ -13,31 +13,26 @@
 |    6   |            |    37     | [Requests module analyse](materialer/requests_module/requests.md)|
 |    7    |            |    38     |   [En introduktion til REST API](materialer/restapi1/introduktion_til_rest_api.md)       |
 |    8    |            |    38     |  [FLASK API](materialer/restapi2/flask.md)        |
-|   13     |            |    39     | Online |
-|   14     |            |    39     | [Linux OS](materialer/docker1/docker_1.md) |
-|   22       |            |    40     | [Docker I](materialer/docker2/docker_2.md) |
-|   23       |            |    40     | [Docker II](materialer/docker2/docker_2.md) |
-|   11     |            |    41     | Online |
-|   12     |            |    41     | [Microservices 1](lessons/ses10.md) |
-|   15     |            |    42     |   [Microservices 2](lessons/ses10.md)  |
-|   16     |            |    42     |  [Microservices 3](lessons/ses10.md) |
-|   17     |            |    42     | Efterårsferie (uge 42) |
-|   18    |       |    43   | Projekt dag 1 |
-|   19       |       |    43     | Projekt dag 2 |
-|   20   |       |     44    | Projekt dag 3 |
-|   21       |       |    44     | Projekt dag 4 |
-|   24       |            |    45     | [Docker Compose](materialer/docker3/docker_3.md) |
-|   25       |            |    45     | [Authorization med JWT](lessons/ses10.md)  |
-|    9    |            |    46     | [Softwaretests ](materialer/tests1/testing_1.md) |
-|   10     |            |    46     | [Mocks](materialer/tests2/testing_2.md) |
-|   26      |     24/11  |    47     | [Eksamensprojekt](lessons/ses10.md)  |
-|   27       |            |    47     | [Eksamensprojekt](lessons/ses10.md)  |
-|   28       |            |    48     | [Eksamensprojekt ](lessons/ses10.md)    |
-|   29       |            |    48     | [Eksamensprojekt](lessons/ses10.md) |
-|   30       |            |    49     | [Eksamensprojekt](lessons/ses10.md)  |
-|   31       |            |    49     | [Eksamensprojekt](lessons/ses10.md)  |
-|   32       |            |    50     |[Eksamensprojekt](lessons/ses10.md)  |
-|   33       |            |    50     | [Eksamensprojekt](lessons/ses10.md)  |
+|    9     |            |    39     | Online |
+|   10     |            |    39     | [Linux OS](materialer/docker1/docker_1.md) |
+|   11       |            |    40     | [Docker I](materialer/docker2/docker_2.md) |
+|   12       |            |    40     | [Microservices 1](lessons/ses10.md)  |
+|   13     |            |    41     | Online  [Microservices 2](lessons/ses10.md) |
+|   14     |            |    41     | |
+|   15    |       |    43   | Projekt dag 1 |
+|   16       |       |    43     | Projekt dag 2 |
+|   17   |       |     44    | Projekt dag 3 |
+|   18       |       |    44     | Projekt dag 4 |
+|   19       |            |    45     | [Docker Compose](materialer/docker3/docker_3.md) |
+|   20       |            |    45     | [Authorization med JWT](lessons/ses10.md)  |
+|   21    |            |    46     | [Softwaretests ](materialer/tests1/testing_1.md) |
+|   22     |            |    46     | [Mocks](materialer/tests2/testing_2.md) |
+|   23      |     24/11  |    47     | [Eksamensprojekt](lessons/ses10.md)  |
+|   24       |            |    47     | [Eksamensprojekt](lessons/ses10.md)  |
+|   25       |            |    48     | [Eksamensprojekt ](lessons/ses10.md)    |
+|   26       |            |    48     | [Eksamensprojekt](lessons/ses10.md) |
+|   27       |            |    49     | [Eksamensprojekt](lessons/ses10.md)  |
+|   28       |            |    49     | [Eksamensprojekt](lessons/ses10.md)  |
 
 ## Om faget
 * [Læs mere om faget her](formalia/about_this_elective.md)
