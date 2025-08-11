@@ -16,15 +16,15 @@
 |    9    |            |   39    | Online                                                                     |
 |   10    |            |   39    | [Microservices 1](materialer/microservices1/microservices_1.md)                               |
 |   11    |            |   40    | [Microservices 2](materialer/microservice2/microservices_2.md)                                |
-|   12    |            |   40    |            |
-|   13    |            |   41    | Online     |
-|   14    |            |   41    |                                                                            |
+|   12    |            |   40    | Frontend med Streamlit           |
+|   13    |            |   41    | Online - Microservice øvelser    |
+|   14    |            |   41    | [Authorization med JWT](lessons/ses10.md)                                                                           |
 |   15    |            |   43    | Projekt dag 1                                                              |
 |   16    |            |   43    | Projekt dag 2                                                              |
 |   17    |            |   44    | Projekt dag 3                                                              |
 |   18    |            |   44    | Projekt dag 4                                                              |
 |   19    |            |   45    | [Docker Compose](materialer/docker3/docker_3.md)                          |
-|   20    |            |   45    | [Authorization med JWT](lessons/ses10.md)                                 |
+|   20    |            |   45    |                                  |
 |   21    |            |   46    | [Softwaretests](materialer/tests1/testing_1.md)                           |
 |   22    |            |   46    | [Mocks](materialer/tests2/testing_2.md)                                   |
 |   23    |   24/11    |   47    | [Eksamensprojekt](lessons/ses10.md)                                       |
