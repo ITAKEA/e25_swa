@@ -1,6 +1,6 @@
 # Microservices 1
 
-![](_static/img/microsevices_quote.png)
+![](assets/microsevices_quote.png)
 
 ## Forberedels
 
