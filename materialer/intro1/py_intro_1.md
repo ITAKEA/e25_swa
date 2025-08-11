@@ -17,44 +17,25 @@ Inden vi mødes i dag skal i have installeret:
 * [Git](https://git-scm.com/downloads)
 
 ## Dagens indhold
-Mine undervisningsnoter kan i se her:
+Alt det formelle kan i se i disse slides:
+* [Slides](slides_intro.ipynb)
 
-* [Slides](slides.ipynb)
+Vi kommer i sidste halvdel af dagen til at arbejde med disse sprogelementer. (brug link som et opslagsværk):
+* [Python Glossary - variable](https://realpython.com/ref/glossary/variable/)
+* [Python Glossary - type()](https://realpython.com/ref/glossary/type/)
+* [Python Glossary - len()](https://realpython.com/ref/builtin-functions/len/)
+* [Python Glossary - function()](https://realpython.com/ref/glossary/function/)
+* [Python Glossary - comment](https://realpython.com/ref/glossary/comment/) 
+* [Python Glossary - f-string](https://realpython.com/ref/glossary/f-string/) 
+* [Python Glossary - Python’s Built-in Data Types](https://realpython.com/ref/builtin-types/) 
+* [Python Glossary - if](https://realpython.com/ref/keywords/if/) 
+* [Python Glossary - else](https://realpython.com/ref/keywords/else/) 
+* [Python Glossary - elif](https://realpython.com/ref/keywords/elif/) 
+* [Built-in Functions](https://docs.python.org/3/library/functions.html)
 
-De sprogelementer vi kommer til at arbejde med i dag kan i læse om her (brug det som et opslagsværk):
+Og så kommer i til at lave disse:
+* [Øvelser](exercises.md)
 
-
-
-
-
-- [Python](https://www.w3schools.com/python/default.asp)
-  - [Python Home](https://www.w3schools.com/python/default.asp)
-  - [Python Intro](https://www.w3schools.com/python/python_intro.asp)
-  - [Python Get Started](https://www.w3schools.com/python/python_getstarted.asp)
-  - [Python Syntax](https://www.w3schools.com/python/python_syntax.asp)
-  - [Python Comments](https://www.w3schools.com/python/python_comments.asp)
-  - [Python Variables](https://www.w3schools.com/python/python_variables.asp)
-    - [Python Variables](https://www.w3schools.com/python/python_variables.asp)
-    - [Variable Names](https://www.w3schools.com/python/python_variables_names.asp)
-    - [Assign Multiple Values](https://www.w3schools.com/python/python_variables_multiple.asp)
-    - [Output Variables](https://www.w3schools.com/python/python_variables_output.asp)
-    - [Global Variables](https://www.w3schools.com/python/python_variables_global.asp)
-    - [Variable Exercises](https://www.w3schools.com/python/python_variables_exercises.asp)
-  - [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
-  - [Python Numbers](https://www.w3schools.com/python/python_numbers.asp)
-  - [Python Casting](https://www.w3schools.com/python/python_casting.asp)
-  - [Python Strings](https://www.w3schools.com/python/python_strings.asp)
-    - [Python Strings](https://www.w3schools.com/python/python_strings.asp)
-    - [String Slicing](https://www.w3schools.com/python/python_strings_slicing.asp)
-    - [Modify Strings](https://www.w3schools.com/python/python_strings_modify.asp)
-    - [Concatenate Strings](https://www.w3schools.com/python/python_strings_concatenate.asp)
-    - [Format Strings](https://www.w3schools.com/python/python_strings_format.asp)
-    - [Escape Characters](https://www.w3schools.com/python/python_strings_escape.asp)
-    - [String Methods](https://www.w3schools.com/python/python_strings_methods.asp)
-  - [Python Booleans](https://www.w3schools.com/python/python_booleans.asp)
-  - [Python Operators](https://www.w3schools.com/python/python_operators.asp)
-  - [Python If...Else](https://www.w3schools.com/python/python_conditions.asp)
-  - [Python Functions](https://www.w3schools.com/python/python_functions.asp)
 
 ### Materialer
 
@@ -66,9 +47,9 @@ De sprogelementer vi kommer til at arbejde med i dag kan i læse om her (brug de
 * [Python Glossary - comment](https://realpython.com/ref/glossary/comment/) 
 * [Python Glossary - f-string](https://realpython.com/ref/glossary/f-string/) 
 * [Python Glossary - Python’s Built-in Data Types](https://realpython.com/ref/builtin-types/) 
-* [Python Glossary - ]() 
-
-
+* [Python Glossary - if](https://realpython.com/ref/keywords/if/) 
+* [Python Glossary - else](https://realpython.com/ref/keywords/else/) 
+* [Python Glossary - elif](https://realpython.com/ref/keywords/elif/) 
 * [Built-in Functions](https://docs.python.org/3/library/functions.html)
 * [Øvelser](exercises.md)
 

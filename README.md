@@ -33,6 +33,8 @@
 |   26       |            |    48     | [Eksamensprojekt](lessons/ses10.md) |
 |   27       |            |    49     | [Eksamensprojekt](lessons/ses10.md)  |
 |   28       |            |    49     | [Eksamensprojekt](lessons/ses10.md)  |
+|   29       |            |    50     | [Eksamensprojekt](lessons/ses10.md)  |
+|   30       |            |    50     | [Eksamensprojekt](lessons/ses10.md)  |
 
 ## Om faget
 * [Læs mere om faget her](formalia/about_this_elective.md)
