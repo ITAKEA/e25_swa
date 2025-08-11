@@ -4,7 +4,7 @@
 
 ## Forberedels
 
-Se de 2 videoer og læs artiklen:    
+Se denne video og læs artiklen:    
 * [Video: What are Microservices?](https://www.youtube.com/watch?v=CdBtNQZH8a4) (6:37)
 * [Microservices (Martin Fowler)](https://martinfowler.com/articles/microservices.html) (30:00)   
 
