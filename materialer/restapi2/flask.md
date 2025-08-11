@@ -42,7 +42,7 @@ Og evt denne:
 ## Øvelser
 Kig på følgende diagram og opret et API der følger disse routes.
 
-![](_static/img/Hvad_er_et_API.png)
+![](assets/Hvad_er_et_API.png)
 
 1. I stedet for så lave det med `students` skal i lave det med `members`. 
 2. I skal som udgangspunkt læse [denne liste med dictionaries](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/flask1/data_dict.py) som jeres datakilde.
