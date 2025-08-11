@@ -11,13 +11,13 @@
 |    4    |            |   36    | [En introduktion til REST API](materialer/restapi1/introduktion_til_rest_api.md) |
 |    5    |            |   37    | Online - API øvelser                                                                 |
 |    6    |            |   37    | [FLASK API](materialer/restapi2/flask.md)                                 |
-|    7    |            |   38    |                                                                            |
-|    8    |            |   38    |                                                                            |
+|    7    |            |   38    | [Linux OS](materialer/docker1/docker_1.md)                                                                           |
+|    8    |            |   38    | [Docker](materialer/docker2/docker_2.md)                                                                           |
 |    9    |            |   39    | Online                                                                     |
-|   10    |            |   39    | [Linux OS](materialer/docker1/docker_1.md)                                |
-|   11    |            |   40    | [Docker I](materialer/docker2/docker_2.md)                                |
-|   12    |            |   40    | [Microservices 1](materialer/microservices1/microservices_1.md)           |
-|   13    |            |   41    | Online [Microservices 2](materialer/microservice2/microservices_2.md)     |
+|   10    |            |   39    | [Microservices 1](materialer/microservices1/microservices_1.md)                               |
+|   11    |            |   40    | [Microservices 2](materialer/microservice2/microservices_2.md)                                |
+|   12    |            |   40    |            |
+|   13    |            |   41    | Online     |
 |   14    |            |   41    |                                                                            |
 |   15    |            |   43    | Projekt dag 1                                                              |
 |   16    |            |   43    | Projekt dag 2                                                              |
