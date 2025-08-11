@@ -16,8 +16,8 @@
 |    9     |            |    39     | Online |
 |   10     |            |    39     | [Linux OS](materialer/docker1/docker_1.md) |
 |   11       |            |    40     | [Docker I](materialer/docker2/docker_2.md) |
-|   12       |            |    40     | [Microservices 1](lessons/ses10.md)  |
-|   13     |            |    41     | Online  [Microservices 2](lessons/ses10.md) |
+|   12       |            |    40     | [Microservices 1](materialer/microservices1/microservices_1.md)  |
+|   13     |            |    41     | Online  [Microservices 2](materialer/microservice2/microservices_2.md) |
 |   14     |            |    41     | |
 |   15    |       |    43   | Projekt dag 1 |
 |   16       |       |    43     | Projekt dag 2 |
