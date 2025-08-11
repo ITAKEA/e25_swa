@@ -9,7 +9,7 @@
 |    2    |            |   35    | [Python - datastrukture](materialer/intro2/py_intro_2.md)                 |
 |    3    |            |   36    | [Python - modules, virtual environmnets, requirements.txt](materialer/intro3/py_intro_3.md) |
 |    4    |            |   36    | [En introduktion til REST API](materialer/restapi1/introduktion_til_rest_api.md) |
-|    5    |            |   37    | Online                                                                     |
+|    5    |            |   37    | Online - API øvelser                                                                 |
 |    6    |            |   37    | [FLASK API](materialer/restapi2/flask.md)                                 |
 |    7    |            |   38    |                                                                            |
 |    8    |            |   38    |                                                                            |
