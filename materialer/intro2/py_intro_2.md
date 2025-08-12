@@ -40,14 +40,14 @@ Så snakker vi kort om hvorfor der er 4 datastrukture i python, og hvad de kan b
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
-* [list1](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/list1.ipynb)
-* [list2](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/list2.ipynb)
-* [Dictionary](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/dict.ipynb)
-* [Set](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/set.ipynb)
+* [list1](list1.ipynb)
+* [list2](list2.ipynb)
+* [Dictionary](dict.ipynb)
+* [Set](set.ipynb)
 
 ## Materialer
 * [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
 * [How to Use sorted() and .sort() in Python](https://realpython.com/python-sort/)
-* [Kodeeksempler fra undervisningen](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python2)
+* [Kodeeksempler fra undervisningen](kodeeksempler.ipynb)
 * [Øvelser - Datastrukture](exercises.md)
 
