@@ -13,17 +13,17 @@
 |    6    |            |   37    | [FLASK API](materialer/restapi2/flask.md)                                 |
 |    7    |            |   38    | [Linux OS](materialer/docker1/docker_1.md)                                |
 |    8    |            |   38    | [Docker](materialer/docker2/docker_2.md)                                  |
-|    9    |            |   39    | Online [Docker Volumes, Docker Compose](materialer/docker3/docker_3.md)                                                                    |
-|   10    |            |   39    | [Microservices 1](materialer/microservices1/microservices_1.md)                               |
-|   11    |            |   40    | [Microservices 2](materialer/microservice2/microservices_2.md)                                |
-|   12    |            |   40    | Frontend med Streamlit           |
+|    9    |            |   39    | Online - Docker Flask øvelser                                                                    |
+|   10    |            |   39    | [Docker Volumes, Docker Compose, environment variables](materialer/docker3/docker_3.md)                               |
+|   11    |            |   40    | [Microservices 1](materialer/microservices1/microservices_1.md)                               |
+|   12    |            |   40    | [Microservices 2](materialer/microservice2/microservices_2.md)           |
 |   13    |            |   41    | Online - Microservice øvelser    |
-|   14    |            |   41    | [Authorization med JWT](lessons/ses10.md)                                                                           |
+|   14    |            |   41    | Frontend med Streamlit                                                                          |
 |   15    |            |   43    | Projekt dag 1                                                              |
 |   16    |            |   43    | Projekt dag 2                                                              |
 |   17    |            |   44    | Projekt dag 3                                                              |
 |   18    |            |   44    | Projekt dag 4 - Fremlæggelse i klassen                                                           |
-|   19    |            |   45    |                           |
+|   19    |            |   45    | [Authorization med JWT](lessons/ses10.md)                            |
 |   20    |            |   45    |                                  |
 |   21    |            |   46    | [Softwaretests](materialer/tests1/testing_1.md)                           |
 |   22    |            |   46    | [Mocks](materialer/tests2/testing_2.md)                                   |
