@@ -12,13 +12,8 @@ I dag og næste gang skal vi arbejde med docker.
 * Kunne arbejde med et Github workflow der inkludere en Dockerfil.    
 
 ## Forberedels
-
-Se de første ca. 28 minutter af denne video.   
-Jeg har sat videoen til at starte 2:26 fra start, da det første ikke er relevant for jer.     
-Fra 11:54 til 15:29 snakker manden on installation af docker. Det behøver i ikke at se, da i allerede har Docker installeret.    
-De sidste 20 minutter er en introduktion til Linux, og det har vi jo haft.    
-
-* [Docker Tutorial for Beginners](https://youtu.be/pTFZFxd4hOI?feature=shared&t=146) (27:54)
+Se denne video:   
+* [Docker Tutorial for Beginners](Docker Crash Course for Absolute Beginners) (1:07:28)
 
 I skal desuden køre disse 2 kommandoer i `gitbash` (windows) eller `terminalen` (Mac)
 

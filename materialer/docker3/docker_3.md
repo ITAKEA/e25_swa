@@ -13,12 +13,12 @@ OBS: Til jer der ikke var der i fredags: sørg for at forstå materialet og øve
 
 ## Forberedelse
 1. Sørg for at have lavet øvelserne fra i fredags. 
-2. [Opret en konto på DockerHub](https://hub.docker.com/)
 3. [Skim denne 'Dockerfile reference' igennem](https://docs.docker.com/reference/dockerfile/)
-4. [Kig på dette docker Cheatsheet fra sidst, og under dag 2 for de ting vi skal arbejde med i dag](materialer/docker_cheatsheet.md)
+4. [Kig på dette docker Cheatsheet fra sidst, og under dag 2 for de ting vi skal arbejde med i dag](../docker2/docker_cheatsheet.md)
 5. Undersøg hvad "Environment Variabler" er.
 6. Undersøg hvordan man arbejder med "Persistance Data" i et docker image.
 7. [Læs afsnittet "Where to Store Data" i denne documentation](https://hub.docker.com/_/mysql/)   
+8. se denne video * [Ultimate Docker Compose Tutorial](https://www.youtube.com/watch?v=SXwC9fSwct8) (1:03:13)
 
 
 ## Dagens indhold
@@ -40,10 +40,10 @@ Vi bruger denne kode som udgangspunkt for dagen: [Kode fra undervisningen](https
 ## Materialer
 * [Opret en konto på DockerHub](https://hub.docker.com/)
 * [Dockerfile reference](https://docs.docker.com/reference/dockerfile/)
-* [Docker Cheatshee](materialer/docker_cheatsheet.md)
+* [Docker Cheatshee](../docker2/docker_cheatsheet.md)
 * [Læs afsnittet "Where to Store Data" i denne documentation](https://hub.docker.com/_/mysql/)   
 * [Kode fra undervisningen](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/docker)
-
+* [Ultimate Docker Compose Tutorial](https://www.youtube.com/watch?v=SXwC9fSwct8)
 ### Øvelser
 
 #### Øv 1: mysql container med persistent data (volume)
