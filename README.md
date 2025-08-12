@@ -22,7 +22,7 @@
 |   15    |            |   43    | Projekt dag 1                                                              |
 |   16    |            |   43    | Projekt dag 2                                                              |
 |   17    |            |   44    | Projekt dag 3                                                              |
-|   18    |            |   44    | Projekt dag 4                                                              |
+|   18    |            |   44    | Projekt dag 4 - Fremlæggelse i klassen                                                           |
 |   19    |            |   45    | [Docker Compose](materialer/docker3/docker_3.md)                          |
 |   20    |            |   45    |                                  |
 |   21    |            |   46    | [Softwaretests](materialer/tests1/testing_1.md)                           |
