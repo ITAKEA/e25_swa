@@ -19,6 +19,7 @@ OBS: Til jer der ikke var der i fredags: sørg for at forstå materialet og øve
 6. Undersøg hvordan man arbejder med "Persistance Data" i et docker image.
 7. [Læs afsnittet "Where to Store Data" i denne documentation](https://hub.docker.com/_/mysql/)   
 8. se denne video * [Ultimate Docker Compose Tutorial](https://www.youtube.com/watch?v=SXwC9fSwct8) (1:03:13)
+9. eller denne [Docker Compose will BLOW your MIND!! (a tutorial)](https://www.youtube.com/watch?v=DM65_JyGxCo)
 
 
 ## Dagens indhold
@@ -44,6 +45,8 @@ Vi bruger denne kode som udgangspunkt for dagen: [Kode fra undervisningen](https
 * [Læs afsnittet "Where to Store Data" i denne documentation](https://hub.docker.com/_/mysql/)   
 * [Kode fra undervisningen](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/docker)
 * [Ultimate Docker Compose Tutorial](https://www.youtube.com/watch?v=SXwC9fSwct8)
+* [Docker Compose will BLOW your MIND!! (a tutorial)](https://www.youtube.com/watch?v=DM65_JyGxCo)
+
 ### Øvelser
 
 #### Øv 1: mysql container med persistent data (volume)
