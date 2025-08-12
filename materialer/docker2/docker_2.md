@@ -78,7 +78,7 @@ Stop din nginx server container og start den igen men nu så du kan se den via d
 
 `docker run -it --rm -p 5000:5000 clbo/flask_crud_demo:0.1.0`    
 
-Hvis det virker kan du i din browser se dene applikation.
+Hvis det virker kan du i din browser se en kørende pplikation.
 
 `http://localhost:5000`     
 
