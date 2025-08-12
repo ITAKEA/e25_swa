@@ -98,7 +98,7 @@ Clon dette repsotiroy: [Koden på Github](https://github.com/ITAKEA/flask_crud_d
  
     
 #### Øv 4: Lav en Dockerfil og et Image
-I skal nu lave et docker image som indeholder det flask api projekt som i afleverede i onsdags.    
+I skal nu lave et docker image som indeholder det flask api projekt som i lavede sidste uge.    
 
 * Det betyder at I i jeres projekt skal tilføje en Dockerfil.        
 * Når i har gjort det skal i lave et image udfra den Dockerfil.     
