@@ -11,9 +11,9 @@
 |    4    |            |   36    | [En introduktion til REST API](materialer/restapi1/introduktion_til_rest_api.md) |
 |    5    |            |   37    | Online - API øvelser                                                                 |
 |    6    |            |   37    | [FLASK API](materialer/restapi2/flask.md)                                 |
-|    7    |            |   38    | [Linux OS](materialer/docker1/docker_1.md)                                                                           |
-|    8    |            |   38    | [Docker](materialer/docker2/docker_2.md)                                                                           |
-|    9    |            |   39    | Online                                                                     |
+|    7    |            |   38    | [Linux OS](materialer/docker1/docker_1.md)                                |
+|    8    |            |   38    | [Docker](materialer/docker2/docker_2.md)                                  |
+|    9    |            |   39    | Online [Docker Volumes, Docker Compose](materialer/docker3/docker_3.md)                                                                    |
 |   10    |            |   39    | [Microservices 1](materialer/microservices1/microservices_1.md)                               |
 |   11    |            |   40    | [Microservices 2](materialer/microservice2/microservices_2.md)                                |
 |   12    |            |   40    | Frontend med Streamlit           |
@@ -23,7 +23,7 @@
 |   16    |            |   43    | Projekt dag 2                                                              |
 |   17    |            |   44    | Projekt dag 3                                                              |
 |   18    |            |   44    | Projekt dag 4 - Fremlæggelse i klassen                                                           |
-|   19    |            |   45    | [Docker Compose](materialer/docker3/docker_3.md)                          |
+|   19    |            |   45    |                           |
 |   20    |            |   45    |                                  |
 |   21    |            |   46    | [Softwaretests](materialer/tests1/testing_1.md)                           |
 |   22    |            |   46    | [Mocks](materialer/tests2/testing_2.md)                                   |

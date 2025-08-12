@@ -46,12 +46,12 @@ Vi kommer til at bruge det i undervisningen, men for at undgå kø på skolens n
 Kør kommandoen: `docker run -it --rm -p 8080:80 nginx` for at starte din nginx webserver.    
 Hvis du går til `http://localhost:8080` kan du se denne side:    
 
-![](_static/img/nginx.png)    
+![](assets/nginx.png)    
 
 **Du skal ændre den så den viser din egen html startside. Feks sådan en:**    
 
      
-![](_static/img/nginx_docker.png)    
+![](assets/nginx_docker.png)    
 
 
 
