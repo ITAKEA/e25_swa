@@ -36,7 +36,7 @@ Vi kommer i sidste halvdel af dagen til at arbejde med disse sprogelementer. (br
 Og så kommer i til at lave disse:
 * [Øvelser](exercises.md)
 
-
+<!--
 ### Materialer
 
 * [Slides]()
@@ -53,5 +53,5 @@ Og så kommer i til at lave disse:
 * [Built-in Functions](https://docs.python.org/3/library/functions.html)
 * [Øvelser](exercises.md)
 
-
+-->
 
