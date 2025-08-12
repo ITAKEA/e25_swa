@@ -15,8 +15,8 @@
 |    8    |            |   38    | [Docker](materialer/docker2/docker_2.md)                                  |
 |    9    |            |   39    | Online - Docker Flask øvelser                                                                    |
 |   10    |            |   39    | [Docker Volumes, Docker Compose, environment variables](materialer/docker3/docker_3.md)                               |
-|   11    |            |   40    | [Microservices 1](materialer/microservices1/microservices_1.md)                               |
-|   12    |            |   40    | [Microservices 2](materialer/microservice2/microservices_2.md)           |
+|   11    |            |   40    | [Microservices ](materialer/microservices1/microservices_1.md)                               |
+|   12    |            |   40    | [Microservices - API Gateway](materialer/microservice2/microservices_2.md)           |
 |   13    |            |   41    | Online - Microservice øvelser    |
 |   14    |            |   41    | Frontend med Streamlit                                                                          |
 |   15    |            |   43    | Projekt dag 1                                                              |
