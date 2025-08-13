@@ -44,8 +44,9 @@ Vi bruger denne kode som udgangspunkt for dagen: [Kode fra undervisningen](https
 * [Docker Cheatshee](../docker2/docker_cheatsheet.md)
 * [Læs afsnittet "Where to Store Data" i denne documentation](https://hub.docker.com/_/mysql/)   
 * [Kode fra undervisningen](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/docker)
-* [Ultimate Docker Compose Tutorial](https://www.youtube.com/watch?v=SXwC9fSwct8)
+* [Ultimate Docker Compose Tutorial](https://www.youtube.com/watch?v=SXwC9fSwct8) (1:03:13)
 * [Docker Compose will BLOW your MIND!! (a tutorial)](https://www.youtube.com/watch?v=DM65_JyGxCo)
+* [YAML | In One Video](https://www.youtube.com/watch?v=cdLNKUoMc6c) (10:36)
 
 ### Øvelser
 
