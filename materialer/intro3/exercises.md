@@ -19,4 +19,10 @@ Hvis i spørger en ven, vil den sikkert foreslå en masse andre moduler (feks. `
 
 I opfordres til at følge **KISS** designprincippet. **Keep it simple stupid**. Altså start med at lave det så simpelt som overhoved muligt. Lad vær med at ville tilføje alt muligt andet funktionalitet end det der står i kravene, og det der er allemest nødvendigt. 
 
+## Øv 2: students_flaks_api_exercise
+
+Clone dette repository til din computer og følg opgaven i readmefilen.
+
+* https://github.com/python-elective-kea/students_flaks_api_exercise.git
+
 
