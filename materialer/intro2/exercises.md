@@ -46,3 +46,7 @@ Hint: A list is a collection of the same type of data, a tuple is a record (e.g.
 ## quizes
 * [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)
 * ["while" Loops Quiz](https://realpython.com/quizzes/python-while-loop/)
+
+## Sommerferie tutorial
+Hvis i ikke har fået lavet denne tutorial endnu, er det en god ide at gå den igennem.
+* [Hello, python](https://www.kaggle.com/code/colinmorris/hello-python)

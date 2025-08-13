@@ -13,3 +13,4 @@ _(disse øvelser skal som udgangspunkt laves uden brug af LLM´er)_
 * [Strings1](string1.ipynb) (30 min)
 * [Strings2](string2.ipynb) (30 min)
 * [Løsninger til alle øvelser](solutions/) (kommer om nogle dage)
+
