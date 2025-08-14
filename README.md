@@ -18,7 +18,7 @@
 |   11    |            |   40    | [Microservices ](materialer/microservices1/microservices_1.md)                               |
 |   12    |            |   40    | [Microservices - API Gateway](materialer/microservice2/microservices_2.md)           |
 |   13    |            |   41    | Frontend med Streamlit    |
-|   14    |            |   41    | FLYST MEDARBEJDERDAG   Online - Microservice øvelser   - A                                                                      |
+|   14    |    8/10    |   41    | AFLYST MEDARBEJDERDAG                     |
 |   15    |            |   43    | Projekt dag 1                                                              |
 |   16    |            |   43    | Online Projekt dag 2                                                              |
 |   17    |            |   44    | Projekt dag 3                                                              |
@@ -38,7 +38,3 @@
 
 ## Om faget
 * [Læs mere om faget her](formalia/about_this_elective.md)
-
-
- [Objektorienteret programmering](materialer/oop1/oop_1.md)
- [Requests module analyse](materialer/requests_module/requests.md)
