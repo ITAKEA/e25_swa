@@ -28,8 +28,7 @@ Når denne dag er slut, bør du kunne svare på disse spørgsmål:
 
 ## Dagens indhold
 
-Vi starter med en gennemgang af [Øv 1: Download filer](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/exercises/solutions) øvelsen.
-Og [Pandas øvelsen]()
+Vi starter med en gennemgang af [Øv 1: Download filer](solutions/) øvelsen.
 
 Herefter gennemgår vi kort i overskrifter af hvad i forventes at have lært derhjemme. 
 
