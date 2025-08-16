@@ -1,6 +1,6 @@
 # Tutorial - Github API
 
-Denne tutorial viser dig hvordan du bruger Githubs API til at oprette et repository med en readme, .gitignore og en Licens fil gennem Postman. Opdatere det eksisterende repo, og slette det igen.
+Denne tutorial viser dig hvordan du bruger Githubs API til at oprette et repository med en readme, .gitignore og en Licens fil gennem Postman. Herefter hvordan du opdaterer dette repository, og til sidst hvordan du sletter det igen.
 
 ## Tutorial:
 
