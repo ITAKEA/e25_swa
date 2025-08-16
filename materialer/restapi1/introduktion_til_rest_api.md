@@ -40,7 +40,7 @@ Dette inkluddere disse sider:
 Resten af dagen bliver med øvelser og lidt demo ved tavlen om Githubs api og miljøvariabler
 
 * [Api øvelse 1](api_ovelse_1.md) 
-* [Kode fra undervisningen](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/restapi)
+* [Kode fra undervisningen](github_api_ex.ipynb)
 * [Miljøvariabler](env.md)
 * [Github API](tutorial_github_api.md)
 
@@ -51,4 +51,4 @@ Resten af dagen bliver med øvelser og lidt demo ved tavlen om Githubs api og mi
 * [Api øvelse 1](api_ovelse_1.md) 
 * [Github API](tutorial_github_api.md)
 * [Miljøvariabler](env.md)
-* [Kode fra undervisningen](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/restapi)
+* [Kode fra undervisningen](github_api_ex.ipynb)
