@@ -4,7 +4,7 @@ Denne tutorial viser dig hvordan du bruger Githubs API til at oprette et reposit
 
 ## Tutorial:
 
-For at oprette et nyt repository i en organisation på GitHub gennem API'en og postman, skal du følge disse trin: 
+For at oprette et nyt repository i en organisation på GitHub gennem API'et og postman, skal du følge disse trin: 
 
 1. **Opret en Personal Access Token:** Først skal du oprette en 'Personal Access Token (classic)' på GitHub. Gå til dine indstillinger på GitHub, vælg 'Developer settings', og derefter 'Personal access tokens'. 
 Klik på 'Generate new token', og sørg for at vælge de nødvendige omfang (scopes) for din token. For at oprette et repository som en almindelig bruger, skal du mindst have 'repo' omfang.
