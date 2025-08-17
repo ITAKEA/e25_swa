@@ -9,14 +9,14 @@
 |    2    |            |   35    | [Python - datastrukture](materialer/intro2/py_intro_2.md)                 |
 |    3    |            |   36    | [Python - modules, virtual environmnets, requirements.txt](materialer/intro3/py_intro_3.md) |
 |    4    |            |   36    | [Objektorienteret programmering](materialer/oop1/oop_1.md) |
-|    5    |            |   37    | [Requests module analyse](materialer/requests_module/requests.md)   |
-|    6    |            |   37    | Online - API øvelser                              |
-|    7    |            |   38    | [Introduktion til REST API](materialer/restapi1/introduktion_til_rest_api.md)                            |
-|    8    |            |   38    | [FLASK API](materialer/restapi2/flask.md)                                     |
-|    9    |            |   39    | [Microservices](materialer/microservices1/microservices_1.md)      |
-|   10    |            |   39    | Online -                               |
-|   11    |            |   40    | [Microservices - API Gateway](materialer/microservice2/microservices_2.md)    |
-|   12    |            |   40    | [Microservices - Frontend med Streamlit]()           |
+|    5    |            |   37    | [Introduktion til REST API](materialer/restapi1/introduktion_til_rest_api.md)  |
+|    6    |            |   37    | [Online - Frontend med Streamlit]()                              |
+|    7    |            |   38    | [FLASK API](materialer/restapi2/flask.md)                            |
+|    8    |            |   38    | [RAG arkitekture og vector databaser]()                                     |
+|    9    |            |   39    | [RAG arkitektur 2]()    |
+|   10    |            |   39    | [Online - RAG Øvelser]()                             |
+|   11    |            |   40    | [Microservices](materialer/microservices1/microservices_1.md)    |
+|   12    |            |   40    | [Microservices - API Gateway](materialer/microservice2/microservices_2.md)        |
 |   13    |            |   41    | Microservices og Docker                                                    |
 |   14    |    8/10    |   41    | AFLYST MEDARBEJDERDAG                                                     |
 |   15    |            |   43    | Projekt dag 1                                                              |
@@ -44,7 +44,7 @@
 
 
 
-* 
+* [Requests module analyse](materialer/requests_module/requests.md)
 * [Linux OS](materialer/docker1/docker_1.md) 
 * [Docker](materialer/docker2/docker_2.md) 
 * [Docker Volumes, Docker Compose, environment variables](materialer/docker3/docker_3.md)
