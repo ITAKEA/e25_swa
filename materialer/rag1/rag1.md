@@ -6,8 +6,8 @@ Stiller vi fx spørgsmålet: *“Hvor mange gange sejler Odysseus over det Ægæ
 
 Så en kort flowbeskrivelse kunne være:
 1. Stil spørgsmål
-2. Søg i dokumenter
-3. generer en promt med kontekst og spørgsmål
+2. Søg i dokumenter lokalt
+3. generer en promt med med søgeresultater og brugerens spørgsmål
 4. Send prompt til LLM API
 5. Få kildeunderstøttet svar tilbage
 
