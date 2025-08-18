@@ -7,8 +7,9 @@ Stiller vi fx spørgsmålet: *“Hvor mange gange sejler Odysseus over det Ægæ
 Så en kort flowbeskrivelse kunne være:
 1. Stil spørgsmål
 2. Søg i dokumenter
-3. Vedlæg fund i prompt
-4. Få kildeunderstøttet svar tilbage
+3. Indsæt contexten i prompten
+4. Send til LLM API
+5. Få kildeunderstøttet svar tilbage
 
 ![](assets/rag_architecture.png)
 
