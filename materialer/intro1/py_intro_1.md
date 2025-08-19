@@ -1,4 +1,4 @@
-# Introduktion til python (dag1)
+# Introduktion til Softwarearkitektur
 I dag er vores første undervisningsgang i faget Softwarearkitektur. Dagen bruger vi på at få et overblik over faget, undervisningen og målet med dette semester.     
 Vi starter med en gennemgang af alt det formelle, herunder en kort beskrivelse af hvad Softwarearkitektur er og hvad i kan  forvente jer at lære dette semester.     
 Den sidste del af dagen kommer til at gå med at komme igang med at programmere med python. I skal lære hvordan vores udviklingsmiljø kommer til at se ud dette semester og hvordan i bruger det. 
