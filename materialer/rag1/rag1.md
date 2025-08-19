@@ -6,9 +6,10 @@ Stiller vi fx spørgsmålet: *“Hvor mange gange sejler Odysseus over det Ægæ
 
 Så en kort flowbeskrivelse kunne være:
 1. Stil spørgsmål
-2. Søg i dokumenter lokalt
-3. generer en promt med med søgeresultater og brugerens spørgsmål
-4. Send prompt til LLM API
+2. Omdand spørgsmål til en vector vha. embeddings
+2. Søg i dokumenter lokalt  vha a vector-sammenligning (1. retrieve)
+3. Generer en promt med med søgeresultater (context) og brugerens oprindelige spørgsmål (2. Augment)
+4. Send prompt til LLM API (3. Retrieve)
 5. Få kildeunderstøttet svar tilbage
 
 ![](assets/rag2.png)
