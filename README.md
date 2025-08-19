@@ -39,10 +39,10 @@
 |   32    |            |   51    | [Eksamensprojekt](lessons/ses10.md)                                       |
 
 
+<!--
 ## Om faget
 * [Læs mere om faget her](formalia/about_this_elective.md)
 
-<!--
 
 * [Requests module analyse](materialer/requests_module/requests.md)
 * [Linux OS](materialer/docker1/docker_1.md) 
