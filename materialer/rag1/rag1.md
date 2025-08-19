@@ -1,7 +1,8 @@
 # Retrieval-Augmented Generation (RAG)
 I dag og de næste 2 gange skal vi arbejde med **Retrieval-Augmented Generation (RAG)** systemer. 
 
-Retrieval-Augmented Generation kan oversættes til “kilde- eller opslags-understøttet prompting”. Idéen er, at vi først laver opslag i relevant materiale og derefter bygger en prompt til en LLM, hvor de fundne tekstuddrag indgår som kontekst. I vores tilfælde betyder “opslag” typisk søgning i én eller flere PDF’er.
+Retrieval-Augmented Generation kan oversættes til “kilde- eller opslags-understøttet prompting”. Eller man kunne også oversætte teknikken til "Hent-suppler generer".     
+Idéen er, at vi først laver opslag i relevant materiale og derefter bygger en prompt til en LLM, hvor de fundne tekstuddrag indgår som kontekst. I vores tilfælde betyder “opslag” typisk søgning i én vectordatabase (en database til ustruktureret data).       
 Stiller vi fx spørgsmålet: *“Hvor mange gange sejler Odysseus over det Ægæiske Hav?”*, søger vi i **Odysseen** efter information om dette, udvælger de mest relevante afsnit og sender dem i prompten sammen med vores spørgsmål. LLM’en bruger så disse uddrag til at give et svar, der er forankret i de tekststumper vi sender med.
 
 Så en kort flowbeskrivelse kunne være:
