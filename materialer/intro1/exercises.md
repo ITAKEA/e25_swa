@@ -14,3 +14,6 @@ _(disse øvelser skal som udgangspunkt laves uden brug af LLM´er)_
 * [Strings2](string2.ipynb) (30 min)
 * [Løsninger til alle øvelser](solutions/) (kommer om nogle dage)
 
+## Sommerferie tutorial
+Hvis i ikke har fået lavet denne tutorial endnu, er det en god ide at gå den igennem indenfor de næste 2 uger.
+* [Hello, python](https://www.kaggle.com/code/colinmorris/hello-python)
