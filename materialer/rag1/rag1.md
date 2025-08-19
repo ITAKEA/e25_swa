@@ -11,7 +11,7 @@ Så en kort flowbeskrivelse kunne være:
 4. Send prompt til LLM API
 5. Få kildeunderstøttet svar tilbage
 
-![](assets/rag_architecture.png)
+![](../rag2/assets/rag_architecture.png)
 
 **I dag**    
 Har vi fokus på at få et overblik over dette flow eller denne arkitektur vores RAG system følger, og vi fokusere efterfølgende på elementerne "Embeddings" og Vectordatabaser.
