@@ -43,6 +43,9 @@ I skal starte med at se denne video om hvad RAG er sådan helt overordnet set:
 ## Dagen indhold
 * TODO: slides om RAG, chunking, indexing, vectore, simularity search
 
+[Eksempel på hvordan vector sammenligning foregår](math.ipynb)
+
+
 ## Materialer
 * [What is a Vector Database? Powering Semantic Search & AI Applications](https://www.youtube.com/watch?v=gl1r1XV0SLw) (9:48)
 * [OpenAI Embeddings and Vector Databases Crash Course](https://www.youtube.com/watch?v=ySus5ZS0b94) (18:40)
