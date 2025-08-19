@@ -16,7 +16,7 @@ Så en kort flowbeskrivelse kunne være:
 ![](assets/rag2.png)
 
 **I dag**    
-Har vi fokus på at få et overblik over dette flow eller denne arkitektur vores RAG system følger, og vi fokusere efterfølgende på elementerne "Embeddings" og Vectordatabaser.
+Har vi fokus på at få et overblik over dette flow eller denne arkitektur vores RAG system følger, og vi fokuserer efterfølgende på elementerne "Embeddings" og "Vectordatabaser".
 
 **Næste gang**     
 Arbejder vi med "prompt generering" og med at få systemet til at fungere med både backend og frontend.
@@ -24,7 +24,7 @@ Arbejder vi med "prompt generering" og med at få systemet til at fungere med b�
 
 ## Læringsmål
 * Forstå og kunne forklare konceptetet RAG 
-* Forstå hvad embeddings er og hvordan de bruges af LLM´s
+* Forstå hvad embeddings er og hvordan de bruges i en vectordatabase (og af LLM´er) 
 * Kunne opdele en tekst i "Chunks", og kunne forklare hvorfor dette er vigtigt.
 * Kunne bruge en ChromaDB database
 
