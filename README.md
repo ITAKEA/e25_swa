@@ -5,7 +5,7 @@
 
 | Lektion |    Dato    |   Uge   | Emne                                                                       |
 |:-------:|:----------:|:-------:|:---------------------------------------------------------------------------|
-|    1    |            |   35    | [Introduktion til python](materialer/intro1/py_intro_1.md)                |
+|    1    |            |   35    | [Introduktion til SWA](materialer/intro1/py_intro_1.md)                |
 |    2    |            |   35    | [Python - datastrukture](materialer/intro2/py_intro_2.md)                 |
 |    3    |            |   36    | [Python - modules, virtual environmnets, requirements.txt](materialer/intro3/py_intro_3.md) |
 |    4    |            |   36    | [Objektorienteret programmering](materialer/oop1/oop_1.md) |
