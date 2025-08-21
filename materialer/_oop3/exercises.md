@@ -1,1 +1,0 @@
-# Øvelser - GoF Design patterns
