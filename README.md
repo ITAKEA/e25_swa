@@ -18,9 +18,9 @@
 |   11    |            |   40    | [Microservices](materialer/microservices1/microservices_1.md)    |
 |   12    |            |   40    | [Microservices - API Gateway](materialer/microservice2/microservices_2.md)        |
 |   13    |            |   41    | Microservices og Docker                                                    |
-|   14    |    8/10    |   41    | AFLYST MEDARBEJDERDAG                                                     |
-|   15    |            |   43    | AFLYST MARTIN BILLE |
-|   16    |            |   43    | AFLYST MARTIN BILLE |
+|   14    |    8/10    |   41    | <!-- AFLYST MEDARBEJDERDAG -->                                                    |
+|   15    |            |   43    | <!-- AFLYST MARTIN BILLE --> |
+|   16    |            |   43    | <!-- AFLYST MARTIN BILLE --> |
 |   17    |            |   44    | Projekt dag 1                                                              |
 |   18    |            |   44    | Projekt dag 2                                                       |
 |   19    |            |   45    | Projekt dag 3                                                              |
