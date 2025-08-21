@@ -197,9 +197,9 @@ materialer/_oop2/
 materialer/_oop3/
 materialer/_oop4/
 materialer/_requests_module/
-materialer/intro1/
-materialer/intro2/
-materialer/intro3/
+#materialer/intro1/
+#materialer/intro2/
+#materialer/intro3/
 materialer/microservice2/
 materialer/microservices1/
 materialer/oop1/
