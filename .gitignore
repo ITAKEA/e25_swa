@@ -191,13 +191,7 @@ materialer/rag1/teacher/
 
 # Ignore lessons until use
 materialer/__/
-materialer/_docker1/
-materialer/_docker2/
-materialer/_docker3/
-materialer/_oop2/
-materialer/_oop3/
-materialer/_oop4/
-materialer/_requests_module/
+materialer/frontend/
 #materialer/intro1/
 #materialer/intro2/
 #materialer/intro3/
