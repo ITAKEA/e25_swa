@@ -187,6 +187,7 @@ teacher/*
 materialer/oop3/teacher
 materialer/requests_module/teacher
 materialer/intro1/teacher
+materialer/rag1/teacher
 
 # Ignore lessons until use
 materialer/_docker1/
