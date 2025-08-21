@@ -19,13 +19,13 @@
 |   12    |            |   40    | [Microservices - API Gateway](materialer/microservice2/microservices_2.md)        |
 |   13    |            |   41    | Microservices og Docker                                                    |
 |   14    |    8/10    |   41    | AFLYST MEDARBEJDERDAG                                                     |
-|   15    |            |   43    | Projekt dag 1                                                              |
-|   16    |            |   43    | Online - Projekt dag 2                                                       |
-|   17    |            |   44    | Projekt dag 3                                                              |
-|   18    |            |   44    | Projekt dag 4                                                              |
-|   19    |            |   45    | [Projekt fremlæggelse]()                                                  |
-|   20    |            |   45    | Online -                                                                  |
-|   21    |            |   46    | [Authorization med JWT](lessons/ses10.md)        |
+|   15    |            |   43    | AFLYST MARTIN BILLE |
+|   16    |            |   43    | AFLYST MARTIN BILLE |
+|   17    |            |   44    | Projekt dag 1                                                              |
+|   18    |            |   44    | Projekt dag 2                                                       |
+|   19    |            |   45    | Projekt dag 3                                                              |
+|   20    |            |   45    | Projekt dag 4                                                                  |
+|   21    |            |   46    | [Authorization med JWT og CORS](lessons/ses10.md)        |
 |   22    |            |   46    | [Softwaretests](materialer/tests1/testing_1.md)    |
 |   23    |            |   47    | [Softwaretests](materialer/tests1/testing_1.md)       |
 |   24    |            |   47    | [Mocks](materialer/tests2/testing_2.md)                                  |
