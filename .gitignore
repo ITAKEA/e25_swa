@@ -210,3 +210,7 @@ materialer/restapi1/
 materialer/restapi2/
 materialer/tests1/
 materialer/tests2/
+
+
+# temp ignore
+materialer/intro1/slides_intro.ipynb
