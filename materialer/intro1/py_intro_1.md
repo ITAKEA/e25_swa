@@ -18,7 +18,7 @@ Inden vi mødes i dag skal i have installeret:
 
 ## Dagens indhold
 Alt det formelle kan i se i disse slides:
-* [Slides](slides_intro.ipynb)
+* [Slides](_slides_intro.ipynb)
 
 Vi kommer i sidste halvdel af dagen til at arbejde med disse sprogelementer. (brug link som et opslagsværk):
 * [Python Glossary - variable](https://realpython.com/ref/glossary/variable/)
