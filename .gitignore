@@ -190,6 +190,7 @@ materialer/intro1/teacher/
 materialer/rag1/teacher/
 
 # Ignore lessons until use
+materialer/__/
 materialer/_docker1/
 materialer/_docker2/
 materialer/_docker3/
