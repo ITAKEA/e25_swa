@@ -12,8 +12,8 @@
 |    5    |   9/9    |  37   | [Introduktion til REST API](materialer/restapi1/introduktion_til_rest_api.md)                     |
 |    6    |  10/9    |  37   | Online - [Frontend med Streamlit]()                                                               |
 |    7    |  15/9    |  38   | [FLASK API](materialer/restapi2/flask.md)                                                         |
-|    8    |  19/9    |  38   | [RAG arkitektur og vector databaser](materialer/rag1/rag1.md)                                     |
-|    9    |  23/9    |  39   | [RAG arkitektur 2](materialer/rag2/rag2.md)                                                       |
+|    8    |  19/9    |  38   | [RAG arkitektur og vector databaser (Retrieve)](materialer/rag1/rag1.md)                                     |
+|    9    |  23/9    |  39   | [RAG arkitektur - Augment & Generate](materialer/rag2/rag2.md)                                                       |
 |   10    |  24/9    |  39   | Online - [RAG Øvelser]()                                                                          |
 |   11    |  30/9    |  40   | [Microservices](materialer/microservices1/microservices_1.md)                                     |
 |   12    |   3/1    |  40   | [Microservices - API Gateway](materialer/microservice2/microservices_2.md)                       |
