@@ -178,16 +178,16 @@ cython_debug/
 
 
 # øvelser løsninger
-materialer/intro1/solutions
-materialer/intro2/solutions
-materialer/intro3/solutions
+#materialer/intro1/solutions
+#materialer/intro2/solutions
+#materialer/intro3/solutions
 
 # teacher
 teacher/*
 materialer/oop3/teacher
 materialer/requests_module/teacher
 materialer/intro1/teacher
-materialer/rag1/teacher
+#materialer/rag1/teacher
 
 # Ignore lessons until use
 materialer/_docker1/
