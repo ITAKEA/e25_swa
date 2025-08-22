@@ -10,7 +10,7 @@
 |    3    |   1/9    |  36   | [Python - modules, virtual environmnets, requirements.txt](materialer/intro3/py_intro_3.md)      |
 |    4    |   5/9    |  36   | [Objektorienteret programmering](materialer/oop1/oop_1.md)                                        |
 |    5    |   9/9    |  37   | [Introduktion til REST API](materialer/restapi1/introduktion_til_rest_api.md)                     |
-|    6    |  10/9    |  37   | Online - [Frontend med Streamlit]()                                                               |
+|    6    |  10/9    |  37   | Online - [Frontend med Streamlit](materialer/frontend/frontend.md)                                                               |
 |    7    |  15/9    |  38   | [FLASK API](materialer/restapi2/flask.md)                                                         |
 |    8    |  19/9    |  38   | [RAG arkitektur og vector databaser (Retrieve)](materialer/rag1/rag1.md)                                     |
 |    9    |  23/9    |  39   | [RAG arkitektur - Augment & Generate](materialer/rag2/rag2.md)                                                       |
