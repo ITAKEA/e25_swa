@@ -18,7 +18,7 @@ Inden vi mødes i dag skal i have installeret:
 
 ## Dagens indhold
 Alt det formelle kan i se i disse slides:
-* [Slides](_slides_intro.ipynb)
+* [Slides](slides_intro.ipynb)
 
 Vi kommer til at arbejde med det der hedder en notebook. Vi starter derfor med at hente denne fil.
 * [Notebook getting started](https://github.com/python-elective-kea/fall2023-code-examples-from-teachings/blob/master/ses1/playground.ipynb)
