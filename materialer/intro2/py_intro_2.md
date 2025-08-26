@@ -10,41 +10,38 @@ Efter i dag vil i være i stand til at oprette Lister og Tupler, tilgå deres el
 I vil kunne bruge Sets til at finde unikke verdier i en collection, og i vil arbejde med Dictionaries og forstå dens key : Value struktur.
 
 ## Læringsmål
-- Arbejde med lister, tuples, dicts og sets
+- Kunne arbejde med lister, tuples
     - Arbejde med deres indeks
     - Bruge slicing syntaksen
-- Kende de vigtigste forskelle mellem lister, tuples, sets og dictionaries
+- Kende til de vigtigste forskelle mellem lister, tuples, sets og dictiories
+- Kunne itererer over lister og tuples
+    - kunne bruge og forklare brugen af `enumerate` funktionen
+    - kunne bruge og forklare brugen af `range` funktionen
+- Kunne sorterer lister vha. sorted(), herunder at kunne bruge key argumentet til custorm sortering 
 
 ## Forberedelse
-Før vi mødes i klassen skal du have:
 
-* Skimmed denne artikkel: [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/) (15 min)
-* Skimmed denne artikkel: [Sets in Python](https://realpython.com/python-sets/) (15 min)
-* Skimmed denne artikkel: [Dictionaries in Python](https://realpython.com/python-dicts/) (15 min)
-* Skimmed denne artikkel: [How to Use sorted() and .sort() in Python](https://realpython.com/python-sort/) (15 min)
-
-For at checke om du har den rigtige forståelse skal du lave disse quizes:
-
-* [Python Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/) (15 min) 
-* [Python Sets Quiz](https://realpython.com/quizzes/python-sets/) (15 min)
-* [Python Dictionaries Quiz](https://realpython.com/quizzes/python-dicts/)(15 min)
+Da i reelt ikke har tid til at forberede jer til denne undervisningsgang er der undtagelsesvis ingen forberedelse til idag.
 
 ## Dagens indhold   
-Først kigger vi på evt. problemer fra i går vedr. stringøvelserne.
+Vi starter med at gennemgå et par udvalgte øvelser af dem i lavede i går om Strings.
 
-Herefter laver vi denne: 
+Da i ikke har kunne forberede jer, kommer jeg derfor til at bruge noget tid på at snakke om emnerne til i dag, og demo´e det ved tavlen.
 
-* [opvarmningsøvelse](warm_up.ipynb) 
+I kan efterfølgen bruge følgende links til at læse om det mest grundlæggende af det jeg har snakket om:
 
-Så snakker vi kort om hvorfor der er 4 datastrukture i python, og hvad de kan bruges til. 
-
-Herefter arbejder vi ping pong med øvelerne til i dag.
-
-* [Øvelser - Datastrukture](exercises.md)
+* [Python Glossary - list](https://realpython.com/ref/builtin-types/list/)
+* [Python Glossary - tuple](https://realpython.com/ref/builtin-types/tuple/)
+* [Python Glossary - set](https://realpython.com/ref/builtin-types/set/)
+* [Python Glossary - dictionary](https://realpython.com/ref/glossary/dictionary/)
 
 ## Materialer
-* [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
-* [How to Use sorted() and .sort() in Python](https://realpython.com/python-sort/)
+<!-- * [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
+* [How to Use sorted() and .sort() in Python](https://realpython.com/python-sort/)-->
+* [Python Glossary - list](https://realpython.com/ref/builtin-types/list/)
+* [Python Glossary - tuple](https://realpython.com/ref/builtin-types/tuple/)
+* [Python Glossary - set](https://realpython.com/ref/builtin-types/set/)
+* [Python Glossary - dictionary](https://realpython.com/ref/glossary/dictionary/)
 * [Kodeeksempler fra undervisningen](kodeeksempler.ipynb)
 * [Øvelser - Datastrukture](exercises.md)
 
