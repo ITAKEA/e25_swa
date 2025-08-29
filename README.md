@@ -22,11 +22,11 @@
 |   14    |  27/10   |  44   | Projekt dag 1                                                                                      |
 |   15    |  31/10   |  44   | Projekt dag 2                                                                                      |
 |   16    |  3/11    |  45   | Projekt dag 3                                                                                      |
-|   17    |  7/11    |  45   | Projekt dag 4 - Fremlæggelse i klassen                                                                                     |
-|   18    |  10/11   |  46   | [Authorization med JWT og CORS](lessons/ses10.md)                                                 |
-|   19    |  14/11   |  46   | [Softwaretests](materialer/tests1/testing_1.md)                                                   |
-|   20    |  17/11   |  47   | [Softwaretests](materialer/tests1/testing_1.md)                                                   |
-|   21    |  18/11   |  47   | [Mocks](materialer/tests2/testing_2.md)                                                           |
+|   17    |  5/11    |  45   | Projekt dag 4                                                            |
+|   18    |  10/11   |  46   | Fremlæggelse af projekt i klassen                                                 |
+|   19    |  14/11   |  46   | [Authorization med JWT og CORS](lessons/ses10.md)                                                   |
+|   20    |  17/11   |  47   | [Softwaretests](materialer/tests1/testing_1.md)                                                  |
+|   21    |  18/11   |  47   | Online - Buffer                                                          |
 |   22    |  25/11   |  48   | [Eksamensprojekt](lessons/ses10.md)                                                               |
 |   23    |  28/11   |  48   | [Eksamensprojekt](lessons/ses10.md)                                                               |
 |   24    |  1/12    |  49   | [Eksamensprojekt](lessons/ses10.md)                                                               |
