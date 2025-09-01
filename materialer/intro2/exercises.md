@@ -38,10 +38,10 @@ Hint: A list is a collection of the same type of data, a tuple is a record (e.g.
 
 ## List & Tuples, Set, Dict øvelser
 
-* [list1](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/list1.ipynb)
-* [list2](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/list2.ipynb)
-* [Dictionary](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/dict.ipynb)
-* [Set](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/set.ipynb)
+* [list1](list1.ipynb)
+* [list2](list2.ipynb)
+* [Dictionary](dict.ipynb)
+* [Set](set.ipynb)
 
 ## quizes
 * [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)
