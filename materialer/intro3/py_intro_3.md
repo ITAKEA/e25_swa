@@ -28,10 +28,22 @@ Se følgende videoer om moduler og pakker,, og læs dokumentet om at arbejde med
 ## Dagen i dag
 Vi starter med en lille [quiz](moduler.ipynb) for at tjekke om i har forstået forberedelsesmaterialet.    
 
-Herefter laver vi en [øvelse/demo](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.     
+Herefter laver vi en [øvelse/demo](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.  
+I kan læse om virtual environments på denne side:
+
+* [Python Module Index](https://docs.python.org/3/py-modindex.html) 
 
 Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```.
 
+* [Requests: HTTP for Humans™](https://docs.python-requests.org/en/latest/)
+
+
+herefter laver vi øcvelserne til idag
+
+* [Øvelser - Moduler](exercises.md)
+
+
+<!--
 ## Materialer
 * [Arbejd med filer i Python](materialer/filer.html)
 * [Moduler og pakker i python 1 (egne moduler)](https://youtu.be/miGblWWfsvY) (8:37)
@@ -43,7 +55,7 @@ Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```.
 * [Øvelser - Moduler](exercises.md)
 
 
-
+-->
 
 
 
