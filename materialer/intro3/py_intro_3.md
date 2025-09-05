@@ -21,14 +21,14 @@ Se følgende videoer om moduler og pakker,, og læs dokumentet om at arbejde med
     <!-- * TODO: lav video om __init__ -->
 * [Moduler og pakker i python 2 (indbyggede)](https://youtu.be/sEvWF1YLxXs) (6:12)
 * [Moduler og pakker i python 3 (3. parts)](https://youtu.be/wbEWDsj3vIg) (8:20)
-* [Arbejd med filer i Python](materialer/filer.html) (5:00)
+* [Arbejd med filer i Python](filer.ipynb) (5:00)
 * [Using Python's pip to Manage Your Projects' Dependencies](https://realpython.com/what-is-pip/) (45:00)
     * Sørg for at forstå starten af hver afsnit i denne artikkel. Hen imod slutningen af hvert afsnit bliver det mere og mere detaljeret. Det er fint at i bare har skimmet det, og derved kan finde tilbage til det hvis i får brug for det. Så ... relativ god forståelse af hovedpointerne fra hvert afsnit, og overblik over resten.
 
 ## Dagen i dag
-Vi starter med en lille [quiz](moduler.ipynb) for at tjekke om i har forstået forberedelsesmaterialet.    
+<!-- Vi starter med en lille [quiz](moduler.ipynb) for at tjekke om i har forstået forberedelsesmaterialet.  -->  
 
-Herefter laver vi en [øvelse/demo](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.  
+Herefter laver vi en [øvelse/demo](https://github.com/ITAKEA/requirements_demo) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.  
 I kan læse om virtual environments på denne side:
 
 * [Python Glossary - virtual environment](https://realpython.com/ref/glossary/virtual-environment/)
