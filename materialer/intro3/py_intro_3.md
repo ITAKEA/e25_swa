@@ -31,7 +31,7 @@ Vi starter med en lille [quiz](moduler.ipynb) for at tjekke om i har forstået f
 Herefter laver vi en [øvelse/demo](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.  
 I kan læse om virtual environments på denne side:
 
-* [Python Module Index](https://docs.python.org/3/py-modindex.html) 
+* [Python Glossary - virtual environment](https://realpython.com/ref/glossary/virtual-environment/)
 
 Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```.
 
