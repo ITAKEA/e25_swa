@@ -2,7 +2,7 @@
 **_(Noter fra undervisningen i klassen)_**
 
 
-![](../../_static/img/HTTP_Message_format.png)
+![](assets/HTTP_Message_format.png)
 
 
 ### Postman
