@@ -28,13 +28,13 @@ Når denne dag er slut, bør du kunne svare på disse spørgsmål:
 
 ## Dagens indhold
 
-Vi starter med en gennemgang af [Øv 1: Download filer](solutions/) øvelsen.
+Vi starter med en gennemgang af [Øv 1: Download filer](solutions/Downloadfiler.ipynb) øvelsen.
 
 Herefter gennemgår vi kort i overskrifter af hvad i forventes at have lært derhjemme. 
 
 Dette inkluddere disse sider: 
 
-* [Http protokollen](materialer/http.md) 
+* [Http protokollen](http.md) 
 
 
 Resten af dagen bliver med øvelser og lidt demo ved tavlen om Githubs api og miljøvariabler
@@ -44,7 +44,7 @@ Resten af dagen bliver med øvelser og lidt demo ved tavlen om Githubs api og mi
 * [Miljøvariabler](env.md)
 * [Github API](tutorial_github_api.md)
 
-
+<!--
 ## Materialer
 
 * [Http protokollen](http.md) 
@@ -52,3 +52,4 @@ Resten af dagen bliver med øvelser og lidt demo ved tavlen om Githubs api og mi
 * [Github API](tutorial_github_api.md)
 * [Miljøvariabler](env.md)
 * [Kode fra undervisningen](github_api_ex.ipynb)
+-->
