@@ -38,7 +38,7 @@ headers = {
     "Authorization": f"token {github_token}"
 }
 
-url = "https://api.github.com/repos/clbokea/linux"
+url = "https://api.github.com/repos/clbokea/osman" # dette repository er "private" og kan kun ses med token
 response = requests.get(url, headers=headers)
 
 print(response.json())
