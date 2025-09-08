@@ -42,7 +42,7 @@ Resten af dagen bliver med øvelser og lidt demo ved tavlen om Githubs api og mi
 * [Api øvelse 1](api_ovelse_1.md) 
 * [Kode fra undervisningen](github_api_ex.ipynb)
 * [Miljøvariabler](env.md)
-* [Github API](tutorial_github_api.md)
+* [Github API tutorial](tutorial_github_api.md)
 
 <!--
 ## Materialer
