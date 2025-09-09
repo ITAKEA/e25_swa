@@ -28,7 +28,7 @@ Når denne dag er slut, bør du kunne svare på disse spørgsmål:
 
 ## Dagens indhold
 
-Vi starter med en gennemgang af [Øv 1: Download filer](../intro3/solutions/Downloadfiler.ipynb) øvelsen.
+Vi starter med en gennemgang af [Øv 1: Download filer](solutions/Downloadfiler.ipynb) øvelsen.
 
 Herefter gennemgår vi kort i overskrifter af hvad i forventes at have lært derhjemme. 
 
