@@ -44,11 +44,8 @@ Vi bruger den første time på en række forståelsesspørgsmål rettet mod det 
 Herefter gennemgår vi sammen [dette eksempel](oop_basic_start.ipynb).    
 
 Og så står resten af dagen på ping/pong [øvelser](exercises.md)
-
+<!-- 
 ## Materialer
-<!--
-- [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
--->
 - [Python Classes: The Power of Object-Oriented Programming](https://realpython.com/python-classes)
 - [Python Glossary - object-oriented programming (OOP)](https://realpython.com/ref/glossary/oop/)
 - [Python Glossary - Class](https://realpython.com/ref/glossary/class/)
@@ -65,3 +62,4 @@ Og så står resten af dagen på ping/pong [øvelser](exercises.md)
 - [Python Glossary - method overriding](https://realpython.com/ref/glossary/method-overriding/)
 - [Øvelser](exercises.md)
 
+-->
