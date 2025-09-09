@@ -73,3 +73,7 @@ Du skal starte med at se følgende tutorial: [Interacting With REST APIs and Pyt
 (Du skal kun se den gratis del af videoerne (1-5))
 
 Herefter skal du via python kode lave de samme trin som ovenfor, altså oprette et repository, redigere et repository og slette det igen. Så samme øvelse som tidligere, men nu gennem python kode i stedet for gennem Postman.
+
+Du skal også her bruge din token for at få adgang til din github konto. Du kan læse om hvordan du bruger dette i python her: 
+
+* [Miljøvariabler](env.md)
