@@ -13,7 +13,7 @@ Vi vil først gennemgå de basale dele af dokumentetionen og herefter laver i et
 
 ## Dagen i dag
 * Vi starter med en gennemgang af dokumentationen [Streamlit.io](https://streamlit.io/) og laver nogle mindre øvelser.
-* Herefter laver i jeres eget projekt (som evt. vil kunne være jeres eksamensprojekt) 
+* Herefter laver i jeres eget projekt.
 
 ## Materiale
 *  [Streamlit.io](https://streamlit.io/)
