@@ -24,8 +24,6 @@ Husk at gøre din kode "pythonic"; den skal være simpel, let at læse, præcis 
 
 ## Øvelse 2: Angry Bird
 
-[Løsning](exercises/solution/04_oop/solution.rst)
-
 I denne øvelse skal du oprette en simpel terminalversion af dette [Angry Bird online kodningslæringsværktøj for børn](https://studio.code.org/hoc/1).
 
 ![Angry Bird](angry_bird.png)
