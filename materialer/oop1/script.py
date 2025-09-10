@@ -1,7 +1,7 @@
 # Module
 
 def foo():
-    return 'hello'
+    pass
 
 
 name = 'Claus'
