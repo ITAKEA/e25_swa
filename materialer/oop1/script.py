@@ -5,3 +5,7 @@ def foo():
 
 
 name = 'Claus'
+
+
+foo()
+
