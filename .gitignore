@@ -191,7 +191,7 @@ materialer/rag1/teacher/
 
 # Ignore lessons until use
 materialer/__/
-materialer/frontend/
+#materialer/frontend/
 #materialer/intro1/
 #materialer/intro2/
 #materialer/intro3/
