@@ -21,6 +21,7 @@ Vi vil først gennemgå de basale dele af dokumentetionen og herefter laver i et
 
 ### Øvelser
 
-* Udvikel jeres egen app med brug af Stremalit (evt. Langchain, Numpy, Pandas).
+* Udvikel jeres egen app med brug af Stremalit.
+    * brug requests og kontakt et api, som api.github.com eller lignende.
 * Host jeres applikation online på https://share.streamlit.io/
 
