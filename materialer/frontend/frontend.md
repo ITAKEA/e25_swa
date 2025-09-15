@@ -22,6 +22,9 @@ Vi vil først gennemgå de basale dele af dokumentetionen og herefter laver i et
 ### Øvelser
 
 * Udvikel jeres egen app med brug af Stremalit.
-    * brug requests og kontakt et api, som api.github.com eller lignende.
+    * I skal brug requests og kontakt et api, (som api.github.com eller lignende.)
+    * I skal have multiple oages i jeres applikation.
+    * I skal bruge text_input felter i jeres applikation
+    * I skal have en requirement.txt fil.
 * Host jeres applikation online på https://share.streamlit.io/
 
