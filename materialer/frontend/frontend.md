@@ -20,6 +20,9 @@ Vi vil først gennemgå de basale dele af dokumentetionen og herefter laver i et
 *  [Streamlit.io](https://streamlit.io/)
 
 ### Øvelser
+* Mock-up øvelse
+
+![](streamlit_mockup.svg)
 
 * Udvikel jeres egen app med brug af Stremalit.
     * I skal brug requests og kontakt et api, (som api.github.com eller lignende.)
