@@ -6,7 +6,6 @@
 | Lektion |   Dato   |  Uge  | Emne                                                                                               |
 |:-------:|:--------:|:-----:|:---------------------------------------------------------------------------------------------------|
 |    1    |   26/8   |  35   | [Introduktion til SWA](materialer/intro1/py_intro_1.md)                                           |
-|    2    |   27/8   |  35   | AFLYST                                                                                          |
 |    3    |   1/9    |  36   | [Python - datastrukture](materialer/intro2/py_intro_2.md)                                         |
 |    4    |   5/9    |  36   | [Python - modules, virtual environmnets, requirements.txt](materialer/intro3/py_intro_3.md)      |
 |    5    |   9/9    |  37   | [Introduktion til REST API](materialer/restapi1/introduktion_til_rest_api.md)                     |
@@ -38,6 +37,9 @@
 
 
 <!--
+
+|    2    |   27/8   |  35   | AFLYST                                                                                          |
+
 ## Om faget
 * [Læs mere om faget her](formalia/about_this_elective.md)
 
