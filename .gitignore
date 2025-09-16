@@ -204,6 +204,6 @@ materialer/jwt/
 materialer/rag2/
 materialer/rag3/
 #materialer/restapi1/
-materialer/restapi2/
+#materialer/restapi2/
 materialer/tests1/
 materialer/tests2/
