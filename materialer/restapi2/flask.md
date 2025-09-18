@@ -28,6 +28,7 @@ Og evt denne:
 ## Dagens indhold
 
 * Vi starter sammen med live coding af øvelsen herunder, og i bliver langsomt sat løs på egen hånd. 
+* I kan finde koden fra klassen i dette [repository](https://github.com/ITAKEA/flask_sqlite_demo/tree/master)
 
 <!--
 ## Materialer
