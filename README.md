@@ -12,11 +12,11 @@
 |    6    |  10/9    |  37   | Online - [Objektorienteret programmering](materialer/oop1/oop_1.md)                                |
 |    7    |  15/9    |  38   | [Frontend med Streamlit](materialer/frontend/frontend.md)                                         |
 |    8    |  19/9    |  38   | [FLASK API](materialer/restapi2/flask.md)                                                         |
-|    9    |  23/9    |  39   | [RAG arkitektur og vector databaser (Retrieve)](materialer/rag1/rag1.md)                          |
-|   10    |  24/9    |  39   | Online - [RAG Øvelser]()                           |
-|   11    |  30/9    |  40   | [RAG arkitektur - Augment & Generate](materialer/rag2/rag2.md)                                    |
-|   12    |  3/10    |  40   | [Microservices](materialer/microservices1/microservices_1.md)                                     |
-|   13    |  7/10    |  41   | [Microservices - API Gateway, Docker](materialer/microservice2/microservices_2.md)                |
+|    9    |  23/9    |  39   | [Microservices](materialer/microservices1/microservices_1.md)                         |
+|   10    |  24/9    |  39   | Online - [Microservices Øvelser]()                           |
+|   11    |  30/9    |  40   | [Microservices]()                                    |
+|   12    |  3/10    |  40   | [Microservices & Docker]()                                    |
+|   13    |  7/10    |  41   | [Microservices - API Gateway](materialer/microservice2/microservices_2.md)                |
 |         |          | 42/43 | Ferie og emneuge                                                                                  |
 |   14    |  27/10   |  44   | Projekt dag 1                                                                                      |
 |   15    |  31/10   |  44   | Projekt dag 2                                                                                      |
@@ -37,6 +37,9 @@
 
 
 <!--
+
+[RAG arkitektur og vector databaser (Retrieve)](materialer/rag1/rag1.md) 
+[RAG arkitektur - Augment & Generate](materialer/rag2/rag2.md)
 
 |    2    |   27/8   |  35   | AFLYST                                                                                          |
 
