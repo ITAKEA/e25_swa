@@ -47,7 +47,7 @@ Kig på følgende diagram og opret et API der følger disse routes.
 ![](assets/Hvad_er_et_API.png)
 
 1. I stedet for så lave det med `students` skal i lave det med `members`. 
-2. I skal som udgangspunkt læse [denne liste med dictionaries](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/flask1/data_dict.py) som jeres datakilde.
+2. I skal som udgangspunkt læse [denne liste med dictionaries](flask_demo/data_dict.py) som jeres datakilde.
 1. Når i har fået det til at virke skal Api´et gemme og læse data i en Sqlite database. Det skal være det samme data som i listen, så i skal `INSERT` det i en tabel i databasen (`executemany`) 
 2. Hver Member skal altså have følgende attributter:
 
