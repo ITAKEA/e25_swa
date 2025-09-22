@@ -24,8 +24,8 @@ Herefter laver vi en services fra øvelsen herunder sammen ved tavlen, og i fort
 * [Query parametre](routes.md)
 * [Video: What are Microservices?](https://www.youtube.com/watch?v=CdBtNQZH8a4) (6:37)
 * [Microservices (Martin Fowler)](https://martinfowler.com/articles/microservices.html)
-* [Kode fra undervisningen (Docker)](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/docker)
-* [Kode fra undervisningen (account_service)](https://github.com/ITAKEA/account_service)
+<!-- * [Kode fra undervisningen (Docker)](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/docker)
+* [Kode fra undervisningen (account_service)](https://github.com/ITAKEA/account_service) -->
 
 
 <!--
@@ -51,10 +51,10 @@ I skal vælge services der interagere med hinanden.
 I forhold til Product Catalog Service (hvis i laver den) kan i med fordel bruge data fra dette [api](https://dummyjson.com/docs). Vær opmærksom på at ikke alt data fra dette api kan bruges dirrekte (feks. vil i helt sikkert gerne kunne sætte en anden pris på produkterne end det der står i api´et).        
  
 Husk at jeres services så vidt det er muligt skal kunne fungere uden de andre services. Ikke nødvendigvis perfekt, men men dog godt nok til at de stadig kan bruges uden at være stærkt afhængig af de andre services.
-
+<!-- 
 **Docker**
 Jeres services skal køre i hver deres docker container, og i skal gøre brug af environment variabler hvor det giver mening. I skal også sørge for at jeres images kan arbejde med persistent data via volumes.    
-
+-->
 I skal i README filerne til alle Services beskrive jeres endpoints.
  
 Sørg for at lave jeres services simple og kun med de nødvendige funktionaliteter (KISS).     
