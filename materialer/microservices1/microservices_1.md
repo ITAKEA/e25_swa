@@ -24,6 +24,7 @@ Herefter laver vi en services fra øvelsen herunder sammen ved tavlen, og i fort
 * [Query parametre](routes.md)
 * [Video: What are Microservices?](https://www.youtube.com/watch?v=CdBtNQZH8a4) (6:37)
 * [Microservices (Martin Fowler)](https://martinfowler.com/articles/microservices.html)
+* [Kode fra undervisningen - Shopping Site Microservices]()
 <!-- * [Kode fra undervisningen (Docker)](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/docker)
 * [Kode fra undervisningen (account_service)](https://github.com/ITAKEA/account_service) -->
 
@@ -44,24 +45,27 @@ Todo: Lav en tutorial og video baseret på denne artikkel, men med Azure som hos
 ### Øvelser
 #### Shopping Site Microservices
 Listen herunder indeholder nogle forslag til hvad en online markedsplads, som feks. Amazon.com kunne indeholde af Microservices.    
-Vi har sammen lavet Account Service og I skal nu i grupper lave en service yderligere.     
-I skal arbjede sammen med minimum en anden gruppe, som har udviklet deres egen service (en anden service end jer).     
-I skal vælge services der interagere med hinanden.         
+Vi har sammen lavet **Currency Service** og **Account Service** og I skal nu lave **Product Catalog Service** i hver især eller i grupper.             
 
-I forhold til Product Catalog Service (hvis i laver den) kan i med fordel bruge data fra dette [api](https://dummyjson.com/docs). Vær opmærksom på at ikke alt data fra dette api kan bruges dirrekte (feks. vil i helt sikkert gerne kunne sætte en anden pris på produkterne end det der står i api´et).        
+I forhold til Product Catalog Service skal i bruge data fra dette [api](https://dummyjson.com/docs). Vær opmærksom på at ikke alt data fra dette api kan bruges dirrekte (feks. skal prisen på produkterne være i **dkr**. Omregningen skal selvfølgelig ske vha. jeres Currency Service).        
  
-Husk at jeres services så vidt det er muligt skal kunne fungere uden de andre services. Ikke nødvendigvis perfekt, men men dog godt nok til at de stadig kan bruges uden at være stærkt afhængig af de andre services.
+Husk at jeres services så vidt det er muligt skal kunne fungere uden de andre services. Ikke nødvendigvis perfekt, men dog godt nok til at de stadig kan bruges uden at være stærkt afhængig af de andre services.
 <!-- 
 **Docker**
 Jeres services skal køre i hver deres docker container, og i skal gøre brug af environment variabler hvor det giver mening. I skal også sørge for at jeres images kan arbejde med persistent data via volumes.    
 -->
-I skal i README filerne til alle Services beskrive jeres endpoints.
+I skal i README filerne til alle Services beskrive jeres endpoints. Det er her ok at lade en LLM skrive disse filer (men husk at i skal kunne forklare hvad der står).
  
 Sørg for at lave jeres services simple og kun med de nødvendige funktionaliteter (KISS).     
 
 1. **Account Service**:
    - Håndterer brugerkonti, herunder registrering, autentificering og profiladministration.
    - Behandler login, logout, passwordhåndtering og brugerroller.
+
+7. **Currency Service**:
+   - Håndterer omregning mellem forskellige valutaer for at sikre, at priserne vises korrekt afhængigt af brugerens valgte valuta.
+   - Opdaterer valutakurser i realtid ved at integrere med eksterne valutakurseressourcer og API'er.
+   - Giver funktionalitet til at indstille eller vælge en foretrukken valuta for både brugere og administratorer.
 
 2. **Product Catalog Service**:
    - Styrer listen over tilgængelige produkter, inklusive detaljer såsom navn, beskrivelse, pris og billeder.
@@ -86,11 +90,6 @@ Sørg for at lave jeres services simple og kun med de nødvendige funktionalitet
 7. **Shipping Service**:
    - Beregner forsendelsesomkostninger og styrer leveringsmuligheder.
    - Sporer forsendelser og opdaterer ordrestatus ved levering.
-
-7. **Currency Service**:
-   - Håndterer omregning mellem forskellige valutaer for at sikre, at priserne vises korrekt afhængigt af brugerens valgte valuta.
-   - Opdaterer valutakurser i realtid ved at integrere med eksterne valutakurseressourcer og API'er.
-   - Giver funktionalitet til at indstille eller vælge en foretrukken valuta for både brugere og administratorer.
 
 8. **Review and Ratings Service**:
    - Giver brugerne mulighed for at anmelde og vurdere produkter.
