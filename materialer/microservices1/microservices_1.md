@@ -24,7 +24,7 @@ Herefter laver vi en services fra øvelsen herunder sammen ved tavlen, og i fort
 * [Query parametre](routes.md)
 * [Video: What are Microservices?](https://www.youtube.com/watch?v=CdBtNQZH8a4) (6:37)
 * [Microservices (Martin Fowler)](https://martinfowler.com/articles/microservices.html)
-* [Kode fra undervisningen - Shopping Site Microservices]()
+* [Kode fra undervisningen - Shopping Site Microservices](https://github.com/ITAKEA/Shopping_Site_Microservices/tree/master)
 <!-- * [Kode fra undervisningen (Docker)](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/docker)
 * [Kode fra undervisningen (account_service)](https://github.com/ITAKEA/account_service) -->
 
