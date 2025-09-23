@@ -21,6 +21,7 @@ Vi starter med at gennemgå denne oversigt fra Videon:
 ![](assets/mono_micro.png)
 
 Herefter laver vi en services fra øvelsen herunder sammen ved tavlen, og i fortsætter i grupper med øvelsen. 
+* [Kode fra undervisningen - Shopping Site Microservices](https://github.com/ITAKEA/Shopping_Site_Microservices/tree/master)
 
 ## Materialer
 
