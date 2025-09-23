@@ -1,6 +1,6 @@
 # Microservices øvelser
 
-I skal i dag arbejde videre med Microservice øvelserne fra i går.
+I skal i dag arbejde videre med Microservice øvelserne fra i går.    
 Der er ikke noget undervisning i dag, men jeg (Claus) er på Teams og kan kontaktes der for hjælp og feedback.
 
 Vi lavede i går disse services:
