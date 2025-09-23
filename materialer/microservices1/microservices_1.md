@@ -17,7 +17,9 @@ Se denne video og læs artiklen:
 Vi starter dagen med en gennemgang af hvordan i kan vha. environment variabler, docker volumens kan opnå persistens på tværs af jeres docker images og containers. (det som vi skulle have lavet sidste onsdag).
 -->
 Vi starter med at gennemgå denne oversigt fra Videon:
+
 ![](assets/mono_micro.png)
+
 Herefter laver vi en services fra øvelsen herunder sammen ved tavlen, og i fortsætter i grupper med øvelsen. 
 
 ## Materialer
