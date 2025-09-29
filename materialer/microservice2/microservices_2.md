@@ -11,10 +11,10 @@ Vi fortsætter med e-handels platformen fra sidste gang, men tilføjer nu et ele
 * [Low Coupling](http://principles-wiki.net/principles:low_coupling)
 
 ## Dagens indhold
-
+<!--
 Docker network "problemer" kan løses ved at følge denne meget korte vejledning:  
 * [Docker Cheatsheet](materialer/docker_cheatsheet.md)
-
+-->
 ## Materialer
 * [What is API gateway really all about? Java Brains - Brain Bytes](https://www.youtube.com/watch?v=1vjOv_f9L8I) (8:55)
 * [Low Coupling](http://principles-wiki.net/principles:low_coupling)
