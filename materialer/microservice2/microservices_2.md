@@ -11,6 +11,7 @@ Vi fortsætter med e-handels platformen fra sidste gang, men tilføjer nu et ele
 * [Low Coupling](http://principles-wiki.net/principles:low_coupling)
 
 ## Dagens indhold
+
 <!--
 Docker network "problemer" kan løses ved at følge denne meget korte vejledning:  
 * [Docker Cheatsheet](materialer/docker_cheatsheet.md)
