@@ -26,5 +26,5 @@ Docker network "problemer" kan løses ved at følge denne meget korte vejledning
 
 ### Øvelser
 
-* Tilføj en API GATEWAY til jeres projekt
+* Tilføj et API GATEWAY til jeres projekt
 
