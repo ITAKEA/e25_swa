@@ -26,7 +26,7 @@ Docker network "problemer" kan løses ved at følge denne meget korte vejledning
 * [Product Catalog Service](https://github.com/ITAKEA/product_service)
 * [Inventory Service](https://github.com/ITAKEA/inventory_service)
 -->
-* [Docker Cheatsheet](materialer/docker_cheatsheet.md)
+* [Docker Cheatsheet](docker_cheatsheet.md)
 
 
 ### Øvelser
