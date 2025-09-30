@@ -15,7 +15,7 @@
 |    9    |  23/9    |  39   | [Microservices](materialer/microservices1/microservices_1.md)                         |
 |   10    |  24/9    |  39   | Online - [Microservices Øvelser](materialer/microservices_ex/microservices_ex.md)                     |
 |   11    |  30/9    |  40   | [Microservices - API Gateway](materialer/microservice2/microservices_2.md)                                   |
-|   12    |  3/10    |  40   | [Microservices & Docker](materialer/microservices_3/microservice_3.md)                                    |
+|   12    |  3/10    |  40   | [Microservices & Docker](materialer/microservices_3/microservice_2.md)                                    |
 |   13    |  7/10    |  41   | [Microservices]()           |
 |         |          | 42/43 | Ferie og emneuge                                                                                  |
 |   14    |  27/10   |  44   | Projekt dag 1                                                                                      |
