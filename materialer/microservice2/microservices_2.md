@@ -22,12 +22,12 @@ Docker network "problemer" kan løses ved at følge denne meget korte vejledning
 * [Low Coupling](http://principles-wiki.net/principles:low_coupling)
 * [Wikipedia - Coupling](https://en.wikipedia.org/wiki/Coupling_(computer_programming)) 
 * [Kode fra undervisningen - Shopping Site Microservices](https://github.com/ITAKEA/Shopping_Site_Microservices/tree/master)
+* [Docker Cheatsheet](docker_cheatsheet.md)
+* [Evironment variabler](../restapi1/env.md)
 <!--
 * [Product Catalog Service](https://github.com/ITAKEA/product_service)
 * [Inventory Service](https://github.com/ITAKEA/inventory_service)
 -->
-* [Docker Cheatsheet](docker_cheatsheet.md)
-
 
 ### Øvelser
 
