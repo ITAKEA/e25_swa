@@ -1,4 +1,4 @@
-```
+```mermaid
 graph TB
     subgraph "Client Layer"
         WEB[Web Application]
