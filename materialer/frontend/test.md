@@ -1,4 +1,4 @@
-```mermaid 
+```
 graph TB
     subgraph "Client Layer"
         WEB[Web Application]
@@ -28,7 +28,12 @@ graph TB
         USERDB[(User DB)]
         PRODUCTDB[(Product DB)]
         ORDERDB[(Order DB)]
-        CACHE[(Redis Cache)]
+        CARTDB[(Cart DB)]
+        SEARCHDB[(Search DB<br/>Elasticsearch)]
+        REVIEWDB[(Review DB)]
+        PAYMENTDB[(Payment DB)]
+        SHIPPINGDB[(Shipping DB)]
+        NOTIFYDB[(Notification DB)]
     end
 
     subgraph "External Services"
@@ -47,26 +52,28 @@ graph TB
     GATEWAY --> REVIEW
 
     USER --> USERDB
-    USER --> CACHE
     
     PRODUCT --> PRODUCTDB
-    PRODUCT --> CACHE
     
-    CART --> CACHE
+    CART --> CARTDB
     
-    SEARCH --> PRODUCTDB
+    SEARCH --> SEARCHDB
     
     ORDER --> ORDERDB
     ORDER --> PAYMENT
     ORDER --> SHIPPING
     ORDER --> NOTIFY
     
+    PAYMENT --> PAYMENTDB
     PAYMENT --> PAYGATE
     
+    SHIPPING --> SHIPPINGDB
     SHIPPING --> SHIPAPI
     SHIPPING --> NOTIFY
     
-    REVIEW --> PRODUCTDB
+    REVIEW --> REVIEWDB
+    
+    NOTIFY --> NOTIFYDB
     
     style GATEWAY fill:#4A90E2
     style USER fill:#7ED321
@@ -78,5 +85,4 @@ graph TB
     style NOTIFY fill:#BD10E0
     style REVIEW fill:#BD10E0
     style SHIPPING fill:#BD10E0
-
     ```
