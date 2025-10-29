@@ -1,3 +1,4 @@
+```mermaid 
 graph TB
     subgraph "Client Layer"
         WEB[Web Application]
@@ -77,3 +78,5 @@ graph TB
     style NOTIFY fill:#BD10E0
     style REVIEW fill:#BD10E0
     style SHIPPING fill:#BD10E0
+
+    ```
