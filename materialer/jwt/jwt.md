@@ -7,8 +7,8 @@ I dag skal vi arbejde med Authorization og med Json Web Token (JWT). Vi skal des
 
 
 ## Forberedelse
-* [What is JWT? JSON Web Tokens Explained (Java Brains)](https://www.youtube.com/watch?v=soGRyl9ztjI)
-* [What is the structure of a JWT - Java Brains](https://www.youtube.com/watch?v=_XbXkVdoG_0)
+* [What is JWT? JSON Web Tokens Explained (Java Brains)](https://www.youtube.com/watch?v=soGRyl9ztjI) (14:52)
+* [What is the structure of a JWT - Java Brains](https://www.youtube.com/watch?v=_XbXkVdoG_0) (17:45)
 
 ## Dagens indhold 
 
