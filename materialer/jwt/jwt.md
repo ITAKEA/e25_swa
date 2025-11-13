@@ -24,10 +24,13 @@ Det vi kommer til at gennemgå i timerne i dag er der dokumentation til her:
 
 Omkring JWT "recapper" vi dette fra videoen:
 ![](screenshots/jwt_1a.png)
+--- 
 ![](screenshots/jwt_1b.png)
+---
 ![](screenshots/jwt_1.png)
+---
 ![](screenshots/jwt_2.png)
-
+---
 Og vi kigger på brugen af dette tool:
 
 * [JWT Debugger](https://jwt.io/#debugger-io)
@@ -42,4 +45,3 @@ Og vi kigger på brugen af dette tool:
 * Implementer roller (admin/employee/bruger)
  -->
 
-### Øvelser
