@@ -23,6 +23,7 @@ Det vi kommer til at gennemgå i timerne i dag er der dokumentation til her:
         * JWT_ACCESS_COOKIE_NAME
 
 Omkring JWT "recapper" vi dette fra videoen:
+
 ![](screenshots/jwt_1a.png)
 --- 
 ![](screenshots/jwt_1b.png)
