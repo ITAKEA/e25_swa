@@ -24,8 +24,8 @@
 |   17    |  5/11    |  45   | Projekt dag 4                                                            |
 |   18    |  10/11   |  46   | Fremlæggelse af projekt i klassen                                                 |
 |   19    |  14/11   |  46   | [Authorization med JWT og CORS](materialer/jwt/jwt.md)  |
-|   20    |  17/11   |  47   | [API dokumentation, API Gateway](materialer/tests1/testing_1.md)  |
-|   21    |  18/11   |  47   | Online - Buffer                                                          |
+|   20    |  17/11   |  47   | [API Gateway & JWT](materialer/gateway/api_gateway.md)  |
+|   21    |  18/11   |  47   | [Microservice Dokumentation](materialer/dokumentation/)                                                          |
 |   22    |  25/11   |  48   | [Eksamensprojekt](lessons/ses10.md)                                                               |
 |   23    |  28/11   |  48   | [Eksamensprojekt](lessons/ses10.md)                                                               |
 |   24    |  1/12    |  49   | [Eksamensprojekt](lessons/ses10.md)                                                               |
