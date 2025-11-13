@@ -25,6 +25,7 @@ Det vi kommer til at gennemgå i timerne i dag er der dokumentation til her:
 Og vi kigger på brugen af dette tool:
 
 * [JWT Debugger](https://jwt.io/#debugger-io)
+* [Cryptii.com](https://cryptii.com/)
 
 * [Kodeeksempel fra undervisningen]()
 
