@@ -37,7 +37,7 @@ Og vi kigger på brugen af dette tool:
 * [JWT Debugger](https://jwt.io/#debugger-io)
 * [Cryptii.com](https://cryptii.com/)
 
-* [Kodeeksempel fra undervisningen]()
+* [Kodeeksempel fra undervisningen](https://github.com/ITAKEA/jwt_e25/tree/main)
 
 <!-- TODO -->
 <!-- 
