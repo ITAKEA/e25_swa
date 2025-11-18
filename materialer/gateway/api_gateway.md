@@ -15,6 +15,11 @@ Vi fortsætter med e-handels platformen fra sidste gang, men tilføjer nu et ele
 * [Wikipedia - Coupling](https://en.wikipedia.org/wiki/Coupling_(computer_programming)) 
 
 ## Dagens indhold
+![](img/gateway_1.png)
+
+**Abstraction**
+
+![](img/gateway_2.png)
 
 <!--
 Docker network "problemer" kan løses ved at følge denne meget korte vejledning:  
