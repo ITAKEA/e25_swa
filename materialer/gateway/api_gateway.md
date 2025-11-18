@@ -21,6 +21,8 @@ Vi fortsætter med e-handels platformen fra sidste gang, men tilføjer nu et ele
 
 ![](img/gateway_2.png)
 
+* [Kode fra undervisningen](https://github.com/ITAKEA/Shopping_Site_Microservices)
+
 <!--
 Docker network "problemer" kan løses ved at følge denne meget korte vejledning:  
 * [Docker Cheatsheet](materialer/docker_cheatsheet.md)
